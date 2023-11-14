@@ -1,0 +1,6253 @@
+{
+  "Ads": [
+  {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-D",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "main_ads_rewards":"",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "backup_ads_rewards":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "open_ads_max":"",
+      "interval_intertitial": 5,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"   
+
+  }
+  ],"sticker_packs": [
+      
+      
+    {
+      "id": "1",
+      "name": "Amochiland",
+      "author": "Amochiland.com",
+      "folder_link": "https://kuota.web.id/android/stikerwa/b/",
+      "image_cover": "b0.png",
+      "lock_item": false,
+      "stickers": [
+        {
+          "image_file": "b1.webp"
+        },
+        {
+          "image_file": "b2.webp"
+        },
+        {
+          "image_file": "b3.webp"
+        },
+        {
+          "image_file": "b4.webp"
+        },
+        {
+          "image_file": "b5.webp"
+        },
+        {
+          "image_file": "b6.webp"
+        },
+        {
+          "image_file": "b7.webp"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Hari Primata Indonesia",
+      "author": "Campaignyiari",
+      "folder_link": "https://kuota.web.id/android/stikerwa/a/",
+      "image_cover": "a0.png",
+      "lock_item": false,
+      "stickers": [
+        {
+          "image_file": "a1.webp"
+        },
+        {
+          "image_file": "a2.webp"
+        },
+        {
+          "image_file": "a3.webp"
+        },
+        {
+          "image_file": "a4.webp"
+        },
+        {
+          "image_file": "a5.webp"
+        },
+        {
+          "image_file": "a6.webp"
+        },
+        {
+          "image_file": "a7.webp"
+        },
+        {
+          "image_file": "a8.webp"
+        },
+        {
+          "image_file": "a9.webp"
+        },
+        {
+          "image_file": "a10.webp"
+        },
+        {
+          "image_file": "a11.webp"
+        },
+        {
+          "image_file": "a13.webp"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "name": "Mr Rabbit Polka Dots",
+      "author": "Chinnyinc",
+      "folder_link": "https://kuota.web.id/android/stikerwa/d/",
+      "image_cover": "d0.png",
+      "lock_item": false,
+      "stickers": [
+        {
+          "image_file": "d1.webp"
+        },
+        {
+          "image_file": "d2.webp"
+        },
+        {
+          "image_file": "d3.webp"
+        },
+        {
+          "image_file": "d4.webp"
+        },
+        {
+          "image_file": "d5.webp"
+        },
+        {
+          "image_file": "d6.webp"
+        },
+        {
+          "image_file": "d7.webp"
+        },
+        {
+          "image_file": "d8.webp"
+        },
+        {
+          "image_file": "d9.webp"
+        },
+        {
+          "image_file": "d10.webp"
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "name": "Mowkee",
+      "author": "Miadisabbia",
+      "folder_link": "https://kuota.web.id/android/stikerwa/e/",
+      "image_cover": "e0.png",
+      "lock_item": false,
+      "stickers": [
+        {
+          "image_file": "e1.webp"
+        },
+        {
+          "image_file": "e2.webp"
+        },
+        {
+          "image_file": "e3.webp"
+        },
+        {
+          "image_file": "e4.webp"
+        },
+        {
+          "image_file": "e5.webp"
+        },
+        {
+          "image_file": "e6.webp"
+        },
+        {
+          "image_file": "e7.webp"
+        },
+        {
+          "image_file": "e8.webp"
+        },
+        {
+          "image_file": "e9.webp"
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "name": "Sticker Mikey",
+      "author": "Mike Statflue",
+      "folder_link": "https://kuota.web.id/android/stikerwa/f/",
+      "image_cover": "f0.png",
+      "lock_item": true,
+      "stickers": [
+        {
+          "image_file": "f1.webp"
+        },
+        {
+          "image_file": "f2.webp"
+        },
+        {
+          "image_file": "f3.webp"
+        },
+        {
+          "image_file": "f4.webp"
+        },
+        {
+          "image_file": "f5.webp"
+        },
+        {
+          "image_file": "f6.webp"
+        },
+        {
+          "image_file": "f7.webp"
+        },
+        {
+          "image_file": "f8.webp"
+        },
+        {
+          "image_file": "f9.webp"
+        },
+        {
+          "image_file": "f10.webp"
+        },
+        {
+          "image_file": "f11.webp"
+        },
+        {
+          "image_file": "f12.webp"
+        },
+        {
+          "image_file": "f13.webp"
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "name": "Evellore repost Indonesia",
+      "author": "Mocca Latino",
+      "folder_link": "https://kuota.web.id/android/stikerwa/g/",
+      "image_cover": "g0.png",
+      "lock_item": true,
+      "stickers": [
+        {
+          "image_file": "g1.webp"
+        },
+        {
+          "image_file": "g2.webp"
+        },
+        {
+          "image_file": "g3.webp"
+        },
+        {
+          "image_file": "g4.webp"
+        },
+        {
+          "image_file": "g5.webp"
+        },
+        {
+          "image_file": "g6.webp"
+        },
+        {
+          "image_file": "g7.webp"
+        },
+        {
+          "image_file": "g8.webp"
+        },
+        {
+          "image_file": "g9.webp"
+        },
+        {
+          "image_file": "g10.webp"
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "name": "Molang Cute",
+      "author": "Molang",
+      "folder_link": "https://kuota.web.id/android/stikerwa/c/",
+      "image_cover": "c0.png",
+      "lock_item": false,
+      "stickers": [
+        {
+          "image_file": "c1.webp"
+        },
+        {
+          "image_file": "c2.webp"
+        },
+        {
+          "image_file": "c3.webp"
+        },
+        {
+          "image_file": "c4.webp"
+        },
+        {
+          "image_file": "c5.webp"
+        },
+        {
+          "image_file": "c6.webp"
+        },
+        {
+          "image_file": "c7.webp"
+        },
+        {
+          "image_file": "c8.webp"
+        },
+        {
+          "image_file": "c9.webp"
+        },
+        {
+          "image_file": "c10.webp"
+        },
+        {
+          "image_file": "c11.webp"
+        },
+        {
+          "image_file": "c12.webp"
+        }
+      ]
+    },
+    {
+			"id": "8",
+			"name": "Lucu Part 1",
+			"author": "TouchApp Studio",
+			"folder_link": "https://kuota.web.id/android/stikerwa/lucu1/",
+			"image_cover": "1.png",
+			"lock_item": false,
+			"stickers": [
+				{
+					"image_file": "1.webp"
+				},
+				{
+					"image_file": "2.webp"
+				},
+				{
+					"image_file": "3.webp"
+				},
+
+				{
+					"image_file": "5.webp"
+				},
+				{
+					"image_file": "6.webp"
+				},
+				{
+					"image_file": "7.webp"
+				},
+				{
+					"image_file": "8.webp"
+				},
+				{
+					"image_file": "9.webp"
+				},
+				{
+					"image_file": "10.webp"
+				}
+			]
+		},
+		{
+			"id": "9",
+			"name": "Lucu Part 2",
+			"author": "TouchApp Studio",
+			"folder_link": "https://kuota.web.id/android/stikerwa/lucu2/",
+			"image_cover": "1.png",
+			"lock_item": false,
+			"stickers": [
+				{
+					"image_file": "11.webp"
+				},
+				{
+					"image_file": "12.webp"
+				},
+				{
+					"image_file": "13.webp"
+				},
+				{
+					"image_file": "14.webp"
+				},
+				{
+					"image_file": "15.webp"
+				},
+				{
+					"image_file": "16.webp"
+				},
+				{
+					"image_file": "17.webp"
+				},
+				{
+					"image_file": "18.webp"
+				},
+				{
+					"image_file": "19.webp"
+				},
+				{
+					"image_file": "20.webp"
+				}
+			]
+		},
+		{
+			"id": "10",
+			"name": "Lucu Part 3",
+			"author": "TouchApp Studio",
+			"folder_link": "https://kuota.web.id/android/stikerwa/lucu3/",
+			"image_cover": "1.png",
+			"lock_item": false,
+			"stickers": [
+				{
+					"image_file": "21.webp"
+				},
+				{
+					"image_file": "22.webp"
+				},
+				{
+					"image_file": "23.webp"
+				},
+				{
+					"image_file": "24.webp"
+				},
+				{
+					"image_file": "25.webp"
+				},
+				{
+					"image_file": "26.webp"
+				},
+				{
+					"image_file": "27.webp"
+				},
+				{
+					"image_file": "28.webp"
+				},
+				{
+					"image_file": "29.webp"
+				},
+				{
+					"image_file": "30.webp"
+				}
+			]
+		},
+		{
+			"id": "11",
+			"name": "Lucu Part 4",
+			"author": "TouchApp Studio",
+			"folder_link": "https://kuota.web.id/android/stikerwa/lucu4/",
+			"image_cover": "1.png",
+			"lock_item": false,
+			"stickers": [
+				{
+					"image_file": "31.webp"
+				},
+				{
+					"image_file": "32.webp"
+				},
+				{
+					"image_file": "33.webp"
+				},
+				{
+					"image_file": "34.webp"
+				},
+				{
+					"image_file": "35.webp"
+				},
+				{
+					"image_file": "36.webp"
+				},
+				{
+					"image_file": "37.webp"
+				},
+				{
+					"image_file": "38.webp"
+				},
+				{
+					"image_file": "39.webp"
+				},
+				{
+					"image_file": "40.webp"
+				}
+			]
+		},
+		{
+			"id": "12",
+			"name": "Lucu Part 5",
+			"author": "TouchApp Studio",
+			"folder_link": "https://kuota.web.id/android/stikerwa/lucu5/",
+			"image_cover": "1.png",
+			"lock_item": false,
+			"stickers": [
+				{
+					"image_file": "42.webp"
+				},
+				{
+					"image_file": "43.webp"
+				},
+				{
+					"image_file": "44.webp"
+				},
+				{
+					"image_file": "45.webp"
+				},
+				{
+					"image_file": "46.webp"
+				},
+				{
+					"image_file": "47.webp"
+				},
+				{
+					"image_file": "48.webp"
+				},
+				{
+					"image_file": "49.webp"
+				},
+				{
+					"image_file": "50.webp"
+				}
+			]
+		},
+		{
+			"id": "13",
+			"name": "Lucu Part 6",
+			"author": "TouchApp Studio",
+			"folder_link": "https://kuota.web.id/android/stikerwa/lucu6/",
+			"image_cover": "1.png",
+			"lock_item": false,
+			"stickers": [
+				{
+					"image_file": "52.webp"
+				},
+				{
+					"image_file": "53.webp"
+				},
+				{
+					"image_file": "54.webp"
+				},
+				{
+					"image_file": "55.webp"
+				},
+				{
+					"image_file": "56.webp"
+				},
+				{
+					"image_file": "57.webp"
+				},
+				{
+					"image_file": "58.webp"
+				},
+				{
+					"image_file": "59.webp"
+				},
+				{
+					"image_file": "60.webp"
+				},
+				{
+					"image_file": "51.webp"
+				}
+			]
+		},
+		{
+			"id": "14",
+			"name": "Lucu Part 7",
+			"author": "TouchApp Studio",
+			"folder_link": "https://kuota.web.id/android/stikerwa/lucu7/",
+			"image_cover": "1.png",
+			"lock_item": false,
+			"stickers": [
+				{
+					"image_file": "62.webp"
+				},
+				{
+					"image_file": "63.webp"
+				},
+				{
+					"image_file": "64.webp"
+				},
+				{
+					"image_file": "65.webp"
+				},
+				{
+					"image_file": "66.webp"
+				},
+				{
+					"image_file": "67.webp"
+				},
+				{
+					"image_file": "68.webp"
+				},
+				{
+					"image_file": "69.webp"
+				},
+				{
+					"image_file": "70.webp"
+				},
+				{
+					"image_file": "61.webp"
+				}
+			]
+		},
+		{
+			"id": "15",
+			"name": "Lucu Part 8",
+			"author": "TouchApp Studio",
+			"folder_link": "https://kuota.web.id/android/stikerwa/lucu8/",
+			"image_cover": "1.png",
+			"lock_item": false,
+			"stickers": [
+				{
+					"image_file": "71.webp"
+				},
+				{
+					"image_file": "72.webp"
+				},
+				{
+					"image_file": "73.webp"
+				},
+				{
+					"image_file": "74.webp"
+				},
+				{
+					"image_file": "75.webp"
+				},
+				{
+					"image_file": "76.webp"
+				},
+				{
+					"image_file": "77.webp"
+				},
+				{
+					"image_file": "78.webp"
+				},
+				{
+					"image_file": "79.webp"
+				},
+				{
+					"image_file": "80.webp"
+				}
+				]
+		},
+		{
+			"id": "16",
+			"name": "Patrick Part 1",
+			"author": "TouchApp Studio",
+			"folder_link": "https://kuota.web.id/android/stikerwa/patrik1/",
+			"image_cover": "1.png",
+			"lock_item": false,
+			"stickers": [
+				{
+					"image_file": "1.webp"
+				},
+				{
+					"image_file": "2.webp"
+				},
+				{
+					"image_file": "3.webp"
+				},
+				{
+					"image_file": "4.webp"
+				},
+				{
+					"image_file": "5.webp"
+				},
+				{
+					"image_file": "6.webp"
+				},
+				{
+					"image_file": "7.webp"
+				},
+				{
+					"image_file": "8.webp"
+				},
+				{
+					"image_file": "9.webp"
+				},
+				{
+					"image_file": "10.webp"
+				}
+				
+			]
+		},
+		{
+			"id": "17",
+			"name": "Patrick Part 2",
+			"author": "TouchApp Studio",
+			"folder_link": "https://kuota.web.id/android/stikerwa/patrik2/",
+			"image_cover": "1.png",
+			"lock_item": false,
+			"stickers": [
+				{
+					"image_file": "11.webp"
+				},
+				{
+					"image_file": "12.webp"
+				},
+				{
+					"image_file": "13.webp"
+				},
+				{
+					"image_file": "14.webp"
+				},
+				{
+					"image_file": "15.webp"
+				},
+				{
+					"image_file": "16.webp"
+				},
+				{
+					"image_file": "17.webp"
+				},
+				{
+					"image_file": "18.webp"
+				},
+				{
+					"image_file": "19.webp"
+				},
+				{
+					"image_file": "20.webp"
+				}
+			]
+		},
+			{
+				"id": "18",
+				"name": "Patrick Part 3",
+				"author": "TouchApp Studio",
+				"folder_link": "https://kuota.web.id/android/stikerwa/patrik3/",
+				"image_cover": "1.png",
+				"lock_item": false,
+				"stickers": [
+					{
+						"image_file": "21.webp"
+					},
+					{
+						"image_file": "22.webp"
+					},
+					{
+						"image_file": "23.webp"
+					},
+					{
+						"image_file": "24.webp"
+					},
+					{
+						"image_file": "25.webp"
+					},
+					{
+						"image_file": "26.webp"
+					},
+					{
+						"image_file": "27.webp"
+					},
+					{
+						"image_file": "28.webp"
+					},
+					{
+						"image_file": "29.webp"
+					},
+					{
+						"image_file": "30.webp"
+					}
+				]
+			},
+			{
+				"id": "19",
+				"name": "Patrick Part 4",
+				"author": "TouchApp Studio",
+				"folder_link": "https://kuota.web.id/android/stikerwa/patrik4/",
+				"image_cover": "1.png",
+				"lock_item": false,
+				"stickers": [
+					{
+						"image_file": "31.webp"
+					},
+					{
+						"image_file": "32.webp"
+					},
+					{
+						"image_file": "33.webp"
+					},
+					{
+						"image_file": "34.webp"
+					},
+					{
+						"image_file": "35.webp"
+					},
+					{
+						"image_file": "36.webp"
+					},
+					{
+						"image_file": "37.webp"
+					},
+					{
+						"image_file": "38.webp"
+					},
+					{
+						"image_file": "39.webp"
+					},
+					{
+						"image_file": "40.webp"
+					}
+				]
+				},
+				{
+				"id": "20",
+				"name": "Patrick Part 5",
+				"author": "TouchApp Studio",
+				"folder_link": "https://kuota.web.id/android/stikerwa/patrik5/",
+				"image_cover": "1.png",
+				"lock_item": false,
+				"stickers": [
+				
+					{
+						"image_file": "42.webp"
+					},
+					{
+						"image_file": "43.webp"
+					},
+					{
+						"image_file": "44.webp"
+					},
+					{
+						"image_file": "45.webp"
+					},
+					{
+						"image_file": "46.webp"
+					},
+					{
+						"image_file": "47.webp"
+					},
+					{
+						"image_file": "48.webp"
+					},
+					{
+						"image_file": "49.webp"
+					},
+					{
+						"image_file": "50.webp"
+					}
+				]
+			},
+				{
+					"id": "21",
+					"name": "Patrick Part 6",
+					"author": "TouchApp Studio",
+					"folder_link": "https://kuota.web.id/android/stikerwa/patrik6/",
+					"image_cover": "1.png",
+					"lock_item": false,
+					"stickers": [
+					
+						{
+							"image_file": "52.webp"
+						},
+						{
+							"image_file": "53.webp"
+						},
+						{
+							"image_file": "54.webp"
+						},
+						{
+							"image_file": "55.webp"
+						},
+						{
+							"image_file": "56.webp"
+						},
+						{
+							"image_file": "57.webp"
+						},
+						{
+							"image_file": "58.webp"
+						},
+						{
+							"image_file": "59.webp"
+						},
+						{
+							"image_file": "60.webp"
+						},
+							{
+								"image_file": "51.webp"
+							}
+					]
+				},
+					{
+						"id": "22",
+						"name": "Patrick Part 7",
+						"author": "TouchApp Studio",
+						"folder_link": "https://kuota.web.id/android/stikerwa/patrik7/",
+						"image_cover": "1.png",
+						"lock_item": true,
+						"stickers": [
+							{
+								"image_file": "62.webp"
+							},
+							{
+								"image_file": "63.webp"
+							},
+							{
+								"image_file": "64.webp"
+							},
+							{
+								"image_file": "65.webp"
+							},
+							{
+								"image_file": "66.webp"
+							},
+							{
+								"image_file": "67.webp"
+							},
+							{
+								"image_file": "68.webp"
+							},
+							{
+								"image_file": "69.webp"
+							},
+							{
+								"image_file": "70.webp"
+							},
+							{
+								"image_file": "61.webp"
+							}
+					]
+					},
+					{
+			"id": "23",
+			"name": "Super Hero Part 1",
+			"author": "TouchApp Studio",
+			"folder_link": "https://kuota.web.id/android/stikerwa/hero1/",
+			"image_cover": "1.png",
+			"lock_item": false,
+			"stickers": [
+				{
+					"image_file": "1.webp"
+				},
+				{
+					"image_file": "2.webp"
+				},
+				{
+					"image_file": "3.webp"
+				},
+				{
+					"image_file": "4.webp"
+				},
+				{
+					"image_file": "5.webp"
+				},
+				{
+					"image_file": "6.webp"
+				},
+				{
+					"image_file": "7.webp"
+				},
+				{
+					"image_file": "8.webp"
+				},
+				{
+					"image_file": "9.webp"
+				},
+				{
+					"image_file": "10.webp"
+				}
+			]
+		},
+		{
+			"id": "24",
+			"name": "Super Hero Part 2",
+			"author": "TouchApp Studio",
+			"folder_link": "https://kuota.web.id/android/stikerwa/hero2/",
+			"image_cover": "1.png",
+			"lock_item": false,
+			"stickers": [
+				{
+					"image_file": "1.webp"
+				},
+				{
+					"image_file": "2.webp"
+				},
+				{
+					"image_file": "3.webp"
+				},
+				{
+					"image_file": "4.webp"
+				},
+				{
+					"image_file": "5.webp"
+				},
+				{
+					"image_file": "6.webp"
+				},
+				{
+					"image_file": "7.webp"
+				}
+			]
+		},
+		{
+			"id": "25",
+			"name": "Super Hero Part 3",
+			"author": "TouchApp Studio",
+			"folder_link": "https://kuota.web.id/android/stikerwa/hero3/",
+			"image_cover": "1.png",
+			"lock_item": false,
+			"stickers": [
+				{
+					"image_file": "1.webp"
+				},
+				{
+					"image_file": "2.webp"
+				},
+				{
+					"image_file": "3.webp"
+				},
+				{
+					"image_file": "4.webp"
+				},
+				{
+					"image_file": "5.webp"
+				},
+				{
+					"image_file": "6.webp"
+				},
+				{
+					"image_file": "7.webp"
+				},
+				{
+					"image_file": "8.webp"
+				},
+				{
+					"image_file": "9.webp"
+				},
+				{
+					"image_file": "10.webp"
+				}
+			]
+		},
+		{
+			"id": "26",
+			"name": "Super Hero Part 4",
+			"author": "TouchApp Studio",
+			"folder_link": "https://kuota.web.id/android/stikerwa/hero4/",
+			"image_cover": "1.png",
+			"lock_item": false,
+			"stickers": [
+				{
+					"image_file": "1.webp"
+				},
+				{
+					"image_file": "2.webp"
+				},
+				{
+					"image_file": "3.webp"
+				},
+				{
+					"image_file": "4.webp"
+				},
+				{
+					"image_file": "5.webp"
+				},
+				{
+					"image_file": "6.webp"
+				},
+				{
+					"image_file": "7.webp"
+				},
+				{
+					"image_file": "8.webp"
+				},
+				{
+					"image_file": "9.webp"
+				},
+				{
+					"image_file": "10.webp"
+				}
+			]
+		},
+		{
+			"id": "27",
+			"name": "Super Hero Part 5",
+			"author": "TouchApp Studio",
+			"folder_link": "https://kuota.web.id/android/stikerwa/hero5/",
+			"image_cover": "1.png",
+			"lock_item": false,
+			"stickers": [
+				{
+					"image_file": "1.webp"
+				},
+				{
+					"image_file": "2.webp"
+				},
+				{
+					"image_file": "3.webp"
+				},
+				{
+					"image_file": "4.webp"
+				},
+				{
+					"image_file": "5.webp"
+				},
+				{
+					"image_file": "6.webp"
+				},
+				{
+					"image_file": "7.webp"
+				},
+				{
+					"image_file": "8.webp"
+				},
+				{
+					"image_file": "9.webp"
+				},
+				{
+					"image_file": "10.webp"
+				},
+				{
+					"image_file": "11.webp"
+				},
+				{
+					"image_file": "12.webp"
+				},
+				{
+					"image_file": "13.webp"
+				}
+			]
+		},
+		{
+			"id": "28",
+			"name": "Super Hero Part 6",
+			"author": "TouchApp Studio",
+			"folder_link": "https://kuota.web.id/android/stikerwa/hero6/",
+			"image_cover": "1.png",
+			"lock_item": false,
+			"stickers": [
+				{
+					"image_file": "1.webp"
+				},
+				{
+					"image_file": "2.webp"
+				},
+				{
+					"image_file": "3.webp"
+				},
+				{
+					"image_file": "4.webp"
+				},
+				{
+					"image_file": "5.webp"
+				},
+				{
+					"image_file": "6.webp"
+				},
+				{
+					"image_file": "7.webp"
+				},
+				{
+					"image_file": "8.webp"
+				}
+			]
+		},
+		{
+			"id": "29",
+			"name": "Super Hero Part 7",
+			"author": "TouchApp Studio",
+			"folder_link": "https://kuota.web.id/android/stikerwa/hero7/",
+			"image_cover": "1.png",
+			"lock_item": false,
+			"stickers": [
+				{
+					"image_file": "1.webp"
+				},
+				{
+					"image_file": "2.webp"
+				},
+				{
+					"image_file": "3.webp"
+				},
+				{
+					"image_file": "4.webp"
+				},
+				{
+					"image_file": "5.webp"
+				},
+				{
+					"image_file": "6.webp"
+				},
+				{
+					"image_file": "7.webp"
+				},
+				{
+					"image_file": "8.webp"
+				}
+			]
+		},
+		{
+			"id": "30",
+			"name": "Super Hero Part 8",
+			"author": "TouchApp Studio",
+			"folder_link": "https://kuota.web.id/android/stikerwa/hero8/",
+			"image_cover": "1.png",
+			"lock_item": false,
+			"stickers": [
+				{
+					"image_file": "1.webp"
+				},
+				{
+					"image_file": "2.webp"
+				},
+				{
+					"image_file": "3.webp"
+				},
+				{
+					"image_file": "4.webp"
+				},
+				{
+					"image_file": "5.webp"
+				},
+				{
+					"image_file": "6.webp"
+				},
+				{
+					"image_file": "7.webp"
+				},
+				{
+					"image_file": "8.webp"
+				},
+				{
+					"image_file": "9.webp"
+				}
+			]
+		},
+		{
+			"id": "31",
+			"name": "Super Hero Part 9",
+			"author": "TouchApp Studio",
+			"folder_link": "https://kuota.web.id/android/stikerwa/hero9/",
+			"image_cover": "1.png",
+			"lock_item": false,
+			"stickers": [
+				{
+					"image_file": "1.webp"
+				},
+				{
+					"image_file": "2.webp"
+				},
+				{
+					"image_file": "3.webp"
+				},
+				{
+					"image_file": "4.webp"
+				},
+				{
+					"image_file": "5.webp"
+				},
+				{
+					"image_file": "6.webp"
+				},
+				{
+					"image_file": "7.webp"
+				},
+				{
+					"image_file": "8.webp"
+				},
+				{
+					"image_file": "9.webp"
+				},
+				{
+					"image_file": "10.webp"
+				},
+				{
+					"image_file": "11.webp"
+				},
+				{
+					"image_file": "12.webp"
+				},
+				{
+					"image_file": "13.webp"
+				},
+				{
+					"image_file": "14.webp"
+				},
+				{
+					"image_file": "15.webp"
+				},
+				{
+					"image_file": "16.webp"
+				},
+				{
+					"image_file": "17.webp"
+				},
+				{
+					"image_file": "18.webp"
+				},
+				{
+					"image_file": "19.webp"
+				}
+			]
+		},
+		{
+			"id": "32",
+			"name": "Super Hero Part 10",
+			"author": "TouchApp Studio",
+			"folder_link": "https://kuota.web.id/android/stikerwa/hero10/",
+			"image_cover": "1.png",
+			"lock_item": false,
+			"stickers": [
+				{
+					"image_file": "1.webp"
+				},
+				{
+					"image_file": "2.webp"
+				},
+				{
+					"image_file": "3.webp"
+				},
+				{
+					"image_file": "4.webp"
+				},
+				{
+					"image_file": "5.webp"
+				},
+				{
+					"image_file": "6.webp"
+				},
+				{
+					"image_file": "7.webp"
+				},
+				{
+					"image_file": "8.webp"
+				}
+			]
+		},
+		{
+			"id": "33",
+			"name": "Super Hero Part 11",
+			"author": "TouchApp Studio",
+			"folder_link": "https://kuota.web.id/android/stikerwa/hero11/",
+			"image_cover": "1.png",
+			"lock_item": false,
+			"stickers": [
+				{
+					"image_file": "1.webp"
+				},
+				{
+					"image_file": "2.webp"
+				},
+				{
+					"image_file": "3.webp"
+				},
+				{
+					"image_file": "4.webp"
+				},
+				{
+					"image_file": "5.webp"
+				}
+			]
+		},
+		{
+			"id": "34",
+			"name": "Super Hero Part 12",
+			"author": "TouchApp Studio",
+			"folder_link": "https://kuota.web.id/android/stikerwa/hero12/",
+			"image_cover": "1.png",
+			"lock_item": true,
+			"stickers": [
+				{
+					"image_file": "1.webp"
+				},
+				{
+					"image_file": "2.webp"
+				},
+				{
+					"image_file": "3.webp"
+				},
+				{
+					"image_file": "4.webp"
+				},
+				{
+					"image_file": "5.webp"
+				},
+				{
+					"image_file": "6.webp"
+				},
+				{
+					"image_file": "7.webp"
+				}
+			]
+		},
+		{
+			"id": "35",
+			"name": "Super Hero Part 13",
+			"author": "TouchApp Studio",
+			"folder_link": "https://kuota.web.id/android/stikerwa/hero13/",
+			"image_cover": "1.png",
+			"lock_item": false,
+			"stickers": [
+				{
+					"image_file": "1.webp"
+				},
+				{
+					"image_file": "2.webp"
+				},
+				{
+					"image_file": "3.webp"
+				},
+				{
+					"image_file": "4.webp"
+				},
+				{
+					"image_file": "5.webp"
+				},
+				{
+					"image_file": "6.webp"
+				},
+				{
+					"image_file": "7.webp"
+				},
+				{
+					"image_file": "8.webp"
+				},
+				{
+					"image_file": "9.webp"
+				},
+				{
+					"image_file": "10.webp"
+				},
+				{
+					"image_file": "11.webp"
+				},
+				{
+					"image_file": "12.webp"
+				},
+				{
+					"image_file": "13.webp"
+				},
+				{
+					"image_file": "14.webp"
+				},
+				{
+					"image_file": "15.webp"
+				},
+				{
+					"image_file": "16.webp"
+				}
+			]
+		},
+		{
+			"id": "36",
+			"name": "Super Hero Part 14",
+			"author": "TouchApp Studio",
+			"folder_link": "https://kuota.web.id/android/stikerwa/hero14/",
+			"image_cover": "1.png",
+			"lock_item": false,
+			"stickers": [
+				{
+					"image_file": "1.webp"
+				},
+				{
+					"image_file": "2.webp"
+				},
+				{
+					"image_file": "3.webp"
+				},
+				{
+					"image_file": "4.webp"
+				},
+				{
+					"image_file": "5.webp"
+				},
+				{
+					"image_file": "6.webp"
+				},
+				{
+					"image_file": "7.webp"
+				},
+				{
+					"image_file": "8.webp"
+				},
+				{
+					"image_file": "9.webp"
+				},
+				{
+					"image_file": "10.webp"
+				},
+				{
+					"image_file": "11.webp"
+				},
+				{
+					"image_file": "12.webp"
+				},
+				{
+					"image_file": "13.webp"
+				},
+				{
+					"image_file": "14.webp"
+				}
+			]
+		},
+		{
+			"id": "37",
+			"name": "Super Hero Part 15",
+			"author": "TouchApp Studio",
+			"folder_link": "https://kuota.web.id/android/stikerwa/hero15/",
+			"image_cover": "1.png",
+			"lock_item": true,
+			"stickers": [
+				{
+					"image_file": "1.webp"
+				},
+				{
+					"image_file": "2.webp"
+				},
+				{
+					"image_file": "3.webp"
+				},
+				{
+					"image_file": "4.webp"
+				},
+				{
+					"image_file": "5.webp"
+				},
+				{
+					"image_file": "6.webp"
+				},
+				{
+					"image_file": "7.webp"
+				},
+				{
+					"image_file": "8.webp"
+				},
+				{
+					"image_file": "9.webp"
+				},
+				{
+					"image_file": "10.webp"
+				},
+				{
+					"image_file": "11.webp"
+				},
+				{
+					"image_file": "12.webp"
+				},
+				{
+					"image_file": "13.webp"
+				},
+				{
+					"image_file": "14.webp"
+				},
+				{
+					"image_file": "15.webp"
+				},
+				{
+					"image_file": "16.webp"
+				},
+				{
+					"image_file": "17.webp"
+				},
+				{
+					"image_file": "18.webp"
+				},
+				{
+					"image_file": "19.webp"
+				},
+				{
+					"image_file": "20.webp"
+				}
+			]
+		},
+		{
+			"id": "38",
+			"name": "Super Hero Part 16",
+			"author": "TouchApp Studio",
+			"folder_link": "https://kuota.web.id/android/stikerwa/hero16/",
+			"image_cover": "1.png",
+			"lock_item": true,
+			"stickers": [
+				{
+					"image_file": "1.webp"
+				},
+				{
+					"image_file": "2.webp"
+				},
+				{
+					"image_file": "3.webp"
+				},
+				{
+					"image_file": "4.webp"
+				},
+				{
+					"image_file": "5.webp"
+				},
+				{
+					"image_file": "6.webp"
+				},
+				{
+					"image_file": "7.webp"
+				},
+				{
+					"image_file": "8.webp"
+				},
+				{
+					"image_file": "9.webp"
+				},
+				{
+					"image_file": "10.webp"
+				},
+				{
+					"image_file": "11.webp"
+				},
+				{
+					"image_file": "12.webp"
+				},
+				{
+					"image_file": "13.webp"
+				},
+				{
+					"image_file": "14.webp"
+				},
+				{
+					"image_file": "15.webp"
+				},
+				{
+					"image_file": "16.webp"
+				},
+				{
+					"image_file": "17.webp"
+				},
+				{
+					"image_file": "18.webp"
+				},
+				{
+					"image_file": "19.webp"
+				},
+				{
+					"image_file": "20.webp"
+				}
+			]
+		},
+			{
+				"id": "39",
+				"name": "Super Hero Part 17",
+				"author": "TouchApp Studio",
+				"folder_link": "https://kuota.web.id/android/stikerwa/hero17/",
+				"image_cover": "1.png",
+				"lock_item": false,
+				"stickers": [
+					{
+						"image_file": "1.webp"
+					},
+					{
+						"image_file": "2.webp"
+					},
+					{
+						"image_file": "3.webp"
+					},
+					{
+						"image_file": "4.webp"
+					},
+					{
+						"image_file": "5.webp"
+					},
+					{
+						"image_file": "6.webp"
+					},
+					{
+						"image_file": "7.webp"
+					},
+					{
+						"image_file": "8.webp"
+					},
+					{
+						"image_file": "9.webp"
+					},
+					{
+						"image_file": "10.webp"
+					},
+					{
+						"image_file": "11.webp"
+					},
+					{
+						"image_file": "12.webp"
+					},
+					{
+						"image_file": "13.webp"
+					},
+					{
+						"image_file": "14.webp"
+					},
+					{
+						"image_file": "15.webp"
+					},
+					{
+						"image_file": "16.webp"
+					},
+					{
+						"image_file": "17.webp"
+					},
+					{
+						"image_file": "18.webp"
+					},
+					{
+						"image_file": "19.webp"
+					},
+					{
+						"image_file": "20.webp"
+					}
+				]
+			},
+			{
+				"id": "40",
+				"name": "Super Hero Part 18",
+				"author": "TouchApp Studio",
+				"folder_link": "https://kuota.web.id/android/stikerwa/hero18/",
+				"image_cover": "1.png",
+				"lock_item": false,
+				"stickers": [
+					{
+						"image_file": "1.webp"
+					},
+					{
+						"image_file": "2.webp"
+					},
+					{
+						"image_file": "3.webp"
+					},
+					{
+						"image_file": "4.webp"
+					},
+					{
+						"image_file": "5.webp"
+					},
+					{
+						"image_file": "6.webp"
+					},
+					{
+						"image_file": "7.webp"
+					},
+					{
+						"image_file": "8.webp"
+					},
+					{
+						"image_file": "9.webp"
+					},
+					{
+						"image_file": "10.webp"
+					},
+					{
+						"image_file": "11.webp"
+					},
+					{
+						"image_file": "12.webp"
+					},
+					{
+						"image_file": "13.webp"
+					},
+					{
+						"image_file": "14.webp"
+					},
+					{
+						"image_file": "15.webp"
+					},
+					{
+						"image_file": "16.webp"
+					},
+					{
+						"image_file": "17.webp"
+					},
+					{
+						"image_file": "18.webp"
+					},
+					{
+						"image_file": "19.webp"
+					},
+					{
+						"image_file": "20.webp"
+					}
+				]
+			},
+			{
+				"id": "41",
+				"name": "Super Hero Part 19",
+				"author": "TouchApp Studio",
+				"folder_link": "https://kuota.web.id/android/stikerwa/hero19/",
+				"image_cover": "1.png",
+				"lock_item": false,
+				"stickers": [
+					{
+						"image_file": "1.webp"
+					},
+					{
+						"image_file": "2.webp"
+					},
+					{
+						"image_file": "3.webp"
+					},
+					{
+						"image_file": "4.webp"
+					},
+					{
+						"image_file": "5.webp"
+					},
+					{
+						"image_file": "6.webp"
+					},
+					{
+						"image_file": "7.webp"
+					},
+					{
+						"image_file": "8.webp"
+					},
+					{
+						"image_file": "9.webp"
+					},
+					{
+						"image_file": "10.webp"
+					},
+					{
+						"image_file": "11.webp"
+					},
+					{
+						"image_file": "12.webp"
+					},
+					{
+						"image_file": "13.webp"
+					},
+					{
+						"image_file": "14.webp"
+					},
+					{
+						"image_file": "15.webp"
+					},
+					{
+						"image_file": "16.webp"
+					},
+					{
+						"image_file": "17.webp"
+					},
+					{
+						"image_file": "18.webp"
+					},
+					{
+						"image_file": "19.webp"
+					},
+					{
+						"image_file": "20.webp"
+					}
+					,
+					{
+						"image_file": "20.webp"
+					}
+				]
+			},
+			{
+			"id": "42",
+			"name": "Sticker Jawa Part 1",
+			"author": "TouchApp Studio",
+			"folder_link": "https://kuota.web.id/android/stikerwa/jawa1/",
+			"image_cover": "1.png",
+			"lock_item": false,
+			"stickers": [
+				{
+					"image_file": "1.webp"
+				},
+				{
+					"image_file": "2.webp"
+				},
+				{
+					"image_file": "3.webp"
+				},
+				{
+					"image_file": "4.webp"
+				},
+				{
+					"image_file": "5.webp"
+				},
+				{
+					"image_file": "6.webp"
+				},
+				{
+					"image_file": "7.webp"
+				},
+				{
+					"image_file": "8.webp"
+				},
+				{
+					"image_file": "9.webp"
+				},
+				{
+					"image_file": "10.webp"
+				},
+				{
+					"image_file": "11.webp"
+				},
+				{
+					"image_file": "12.webp"
+				},
+				{
+					"image_file": "13.webp"
+				},
+				{
+					"image_file": "14.webp"
+				},
+				{
+					"image_file": "15.webp"
+				},
+				{
+					"image_file": "16.webp"
+				},
+				{
+					"image_file": "17.webp"
+				},
+				{
+					"image_file": "18.webp"
+				},
+				{
+					"image_file": "19.webp"
+				},
+				{
+					"image_file": "20.webp"
+				},
+				{
+					"image_file": "21.webp"
+				},
+				{
+					"image_file": "22.webp"
+				},
+				{
+					"image_file": "23.webp"
+				},
+				{
+					"image_file": "24.webp"
+				},
+				{
+					"image_file": "25.webp"
+				},
+				{
+					"image_file": "26.webp"
+				},
+				{
+					"image_file": "27.webp"
+				},
+				{
+					"image_file": "28.webp"
+				},
+				{
+					"image_file": "29.webp"
+				},
+				{
+					"image_file": "30.webp"
+				}
+			]
+		},
+		{
+			"id": "43",
+			"name": "Sticker Jawa Part 2",
+			"author": "TouchApp Studio",
+			"folder_link": "https://kuota.web.id/android/stikerwa/jawa2/",
+			"image_cover": "1.png",
+			"lock_item": false,
+			"stickers": [
+				{
+					"image_file": "1.webp"
+				},
+				{
+					"image_file": "2.webp"
+				},
+				{
+					"image_file": "3.webp"
+				},
+				{
+					"image_file": "4.webp"
+				},
+				{
+					"image_file": "5.webp"
+				},
+				{
+					"image_file": "6.webp"
+				},
+				{
+					"image_file": "7.webp"
+				},
+				{
+					"image_file": "8.webp"
+				},
+				{
+					"image_file": "9.webp"
+				},
+				{
+					"image_file": "10.webp"
+				},
+				{
+					"image_file": "11.webp"
+				},
+				{
+					"image_file": "12.webp"
+				},
+				{
+					"image_file": "13.webp"
+				},
+				{
+					"image_file": "14.webp"
+				},
+				{
+					"image_file": "15.webp"
+				},
+				{
+					"image_file": "16.webp"
+				},
+				{
+					"image_file": "17.webp"
+				},
+				{
+					"image_file": "18.webp"
+				},
+				{
+					"image_file": "19.webp"
+				},
+				{
+					"image_file": "20.webp"
+				},
+				{
+					"image_file": "21.webp"
+				},
+				{
+					"image_file": "22.webp"
+				},
+				{
+					"image_file": "23.webp"
+				},
+				{
+					"image_file": "24.webp"
+				},
+				{
+					"image_file": "25.webp"
+				},
+				{
+					"image_file": "26.webp"
+				},
+				{
+					"image_file": "27.webp"
+				},
+				{
+					"image_file": "28.webp"
+				},
+				{
+					"image_file": "29.webp"
+				},
+				{
+					"image_file": "30.webp"
+				}
+			]
+		},
+		{
+			"id": "44",
+			"name": "Sticker Jawa Part 3",
+			"author": "TouchApp Studio",
+			"folder_link": "https://kuota.web.id/android/stikerwa/jawa3/",
+			"image_cover": "1.png",
+			"lock_item": false,
+			"stickers": [
+				{
+					"image_file": "1.webp"
+				},
+				{
+					"image_file": "2.webp"
+				},
+				{
+					"image_file": "3.webp"
+				},
+				{
+					"image_file": "4.webp"
+				},
+				{
+					"image_file": "5.webp"
+				},
+				{
+					"image_file": "6.webp"
+				},
+				{
+					"image_file": "7.webp"
+				},
+				{
+					"image_file": "8.webp"
+				},
+				{
+					"image_file": "9.webp"
+				},
+				{
+					"image_file": "10.webp"
+				},
+				{
+					"image_file": "11.webp"
+				},
+				{
+					"image_file": "12.webp"
+				},
+				{
+					"image_file": "13.webp"
+				},
+				{
+					"image_file": "14.webp"
+				},
+				{
+					"image_file": "15.webp"
+				},
+				{
+					"image_file": "16.webp"
+				},
+				{
+					"image_file": "17.webp"
+				},
+				{
+					"image_file": "18.webp"
+				},
+				{
+					"image_file": "19.webp"
+				},
+				{
+					"image_file": "20.webp"
+				},
+				{
+					"image_file": "21.webp"
+				},
+				{
+					"image_file": "22.webp"
+				},
+				{
+					"image_file": "23.webp"
+				},
+				{
+					"image_file": "24.webp"
+				},
+				{
+					"image_file": "25.webp"
+				},
+				{
+					"image_file": "26.webp"
+				},
+				{
+					"image_file": "27.webp"
+				},
+				{
+					"image_file": "28.webp"
+				},
+				{
+					"image_file": "29.webp"
+				}
+			]
+		},
+		{
+			"id": "45",
+			"name": "Sticker Jawa Part 4",
+			"author": "TouchApp Studio",
+			"folder_link": "https://kuota.web.id/android/stikerwa/jawa4/",
+			"image_cover": "1.png",
+			"lock_item": false,
+			"stickers": [
+				{
+					"image_file": "1.webp"
+				},
+				{
+					"image_file": "2.webp"
+				},
+				{
+					"image_file": "3.webp"
+				},
+				{
+					"image_file": "4.webp"
+				},
+				{
+					"image_file": "5.webp"
+				},
+				{
+					"image_file": "6.webp"
+				},
+				{
+					"image_file": "7.webp"
+				},
+				{
+					"image_file": "8.webp"
+				},
+				{
+					"image_file": "9.webp"
+				},
+				{
+					"image_file": "10.webp"
+				},
+				{
+					"image_file": "11.webp"
+				},
+				{
+					"image_file": "12.webp"
+				},
+				{
+					"image_file": "13.webp"
+				},
+				{
+					"image_file": "14.webp"
+				},
+				{
+					"image_file": "15.webp"
+				},
+				{
+					"image_file": "16.webp"
+				},
+				{
+					"image_file": "17.webp"
+				},
+				{
+					"image_file": "18.webp"
+				},
+				{
+					"image_file": "19.webp"
+				},
+				{
+					"image_file": "20.webp"
+				},
+				{
+					"image_file": "21.webp"
+				},
+				{
+					"image_file": "22.webp"
+				},
+				{
+					"image_file": "23.webp"
+				},
+				{
+					"image_file": "24.webp"
+				},
+				{
+					"image_file": "25.webp"
+				},
+				{
+					"image_file": "26.webp"
+				},
+				{
+					"image_file": "27.webp"
+				},
+				{
+					"image_file": "28.webp"
+				},
+				{
+					"image_file": "29.webp"
+				}
+			]
+		},
+		{
+			"id": "46",
+			"name": "Sticker Jawa Part 5",
+			"author": "TouchApp Studio",
+			"folder_link": "https://kuota.web.id/android/stikerwa/jawa5/",
+			"image_cover": "1.png",
+			"lock_item": false,
+			"stickers": [
+				{
+					"image_file": "1.webp"
+				},
+				{
+					"image_file": "2.webp"
+				},
+				{
+					"image_file": "3.webp"
+				},
+				{
+					"image_file": "4.webp"
+				},
+				{
+					"image_file": "5.webp"
+				},
+				{
+					"image_file": "6.webp"
+				},
+				{
+					"image_file": "7.webp"
+				},
+				{
+					"image_file": "8.webp"
+				},
+				{
+					"image_file": "9.webp"
+				},
+				{
+					"image_file": "10.webp"
+				},
+				{
+					"image_file": "11.webp"
+				},
+				{
+					"image_file": "12.webp"
+				},
+				{
+					"image_file": "13.webp"
+				},
+				{
+					"image_file": "14.webp"
+				},
+				{
+					"image_file": "15.webp"
+				},
+				{
+					"image_file": "16.webp"
+				},
+				{
+					"image_file": "17.webp"
+				},
+				{
+					"image_file": "18.webp"
+				},
+				{
+					"image_file": "19.webp"
+				},
+				{
+					"image_file": "20.webp"
+				},
+				{
+					"image_file": "21.webp"
+				},
+				{
+					"image_file": "22.webp"
+				},
+				{
+					"image_file": "23.webp"
+				},
+				{
+					"image_file": "24.webp"
+				},
+				{
+					"image_file": "25.webp"
+				},
+				{
+					"image_file": "26.webp"
+				},
+				{
+					"image_file": "27.webp"
+				},
+				{
+					"image_file": "28.webp"
+				},
+				{
+					"image_file": "29.webp"
+				},
+				{
+					"image_file": "30.webp"
+				}
+			]
+		},
+		{
+			"id": "47",
+			"name": "Sticker Jawa Part 6",
+			"author": "TouchApp Studio",
+			"folder_link": "https://kuota.web.id/android/stikerwa/jawa6/",
+			"image_cover": "1.png",
+			"lock_item": false,
+			"stickers": [
+				{
+					"image_file": "1.webp"
+				},
+				{
+					"image_file": "2.webp"
+				},
+				{
+					"image_file": "3.webp"
+				},
+				{
+					"image_file": "4.webp"
+				},
+				{
+					"image_file": "5.webp"
+				},
+				{
+					"image_file": "6.webp"
+				},
+				{
+					"image_file": "7.webp"
+				},
+				{
+					"image_file": "8.webp"
+				},
+				{
+					"image_file": "9.webp"
+				},
+				{
+					"image_file": "10.webp"
+				},
+				{
+					"image_file": "11.webp"
+				},
+				{
+					"image_file": "12.webp"
+				},
+				{
+					"image_file": "13.webp"
+				},
+				{
+					"image_file": "14.webp"
+				},
+				{
+					"image_file": "15.webp"
+				},
+				{
+					"image_file": "16.webp"
+				},
+				{
+					"image_file": "17.webp"
+				},
+				{
+					"image_file": "18.webp"
+				},
+				{
+					"image_file": "19.webp"
+				},
+				{
+					"image_file": "20.webp"
+				}
+			]
+		},
+		{
+			"id": "48",
+			"name": "Sticker Jawa Part 7",
+			"author": "TouchApp Studio",
+			"folder_link": "https://kuota.web.id/android/stikerwa/jawa7/",
+			"image_cover": "1.png",
+			"lock_item": false,
+			"stickers": [
+				{
+					"image_file": "1.webp"
+				},
+				{
+					"image_file": "2.webp"
+				},
+				{
+					"image_file": "3.webp"
+				},
+				{
+					"image_file": "4.webp"
+				},
+				{
+					"image_file": "5.webp"
+				},
+				{
+					"image_file": "6.webp"
+				},
+				{
+					"image_file": "7.webp"
+				},
+				{
+					"image_file": "8.webp"
+				},
+				{
+					"image_file": "9.webp"
+				},
+				{
+					"image_file": "10.webp"
+				},
+				{
+					"image_file": "11.webp"
+				},
+				{
+					"image_file": "12.webp"
+				},
+				{
+					"image_file": "13.webp"
+				},
+				{
+					"image_file": "14.webp"
+				},
+				{
+					"image_file": "15.webp"
+				},
+				{
+					"image_file": "16.webp"
+				},
+				{
+					"image_file": "17.webp"
+				},
+				{
+					"image_file": "18.webp"
+				},
+				{
+					"image_file": "19.webp"
+				},
+				{
+					"image_file": "20.webp"
+				},
+				{
+					"image_file": "21.webp"
+				},
+				{
+					"image_file": "22.webp"
+				},
+				{
+					"image_file": "23.webp"
+				},
+				{
+					"image_file": "24.webp"
+				},
+				{
+					"image_file": "25.webp"
+				},
+				{
+					"image_file": "26.webp"
+				},
+				{
+					"image_file": "27.webp"
+				},
+				{
+					"image_file": "28.webp"
+				},
+				{
+					"image_file": "29.webp"
+				},
+				{
+					"image_file": "30.webp"
+				}
+			]
+		},
+		{
+			"id": "49",
+			"name": "Sticker Jawa Part 8",
+			"author": "TouchApp Studio",
+			"folder_link": "https://kuota.web.id/android/stikerwa/jawa8/",
+			"image_cover": "1.png",
+			"lock_item": false,
+			"stickers": [
+				{
+					"image_file": "1.webp"
+				},
+				{
+					"image_file": "2.webp"
+				},
+				{
+					"image_file": "3.webp"
+				},
+				{
+					"image_file": "4.webp"
+				},
+				{
+					"image_file": "5.webp"
+				},
+				{
+					"image_file": "6.webp"
+				},
+				{
+					"image_file": "7.webp"
+				},
+				{
+					"image_file": "8.webp"
+				},
+				{
+					"image_file": "9.webp"
+				},
+				{
+					"image_file": "10.webp"
+				},
+				{
+					"image_file": "11.webp"
+				},
+				{
+					"image_file": "12.webp"
+				},
+				{
+					"image_file": "13.webp"
+				},
+				{
+					"image_file": "14.webp"
+				},
+				{
+					"image_file": "15.webp"
+				},
+				{
+					"image_file": "16.webp"
+				},
+				{
+					"image_file": "17.webp"
+				},
+				{
+					"image_file": "18.webp"
+				},
+				{
+					"image_file": "19.webp"
+				},
+				{
+					"image_file": "20.webp"
+				},
+				{
+					"image_file": "21.webp"
+				},
+				{
+					"image_file": "22.webp"
+				},
+				{
+					"image_file": "23.webp"
+				},
+				{
+					"image_file": "24.webp"
+				},
+				{
+					"image_file": "25.webp"
+				},
+				{
+					"image_file": "26.webp"
+				},
+				{
+					"image_file": "27.webp"
+				},
+				{
+					"image_file": "28.webp"
+				},
+				{
+					"image_file": "29.webp"
+				},
+				{
+					"image_file": "30.webp"
+				}
+			]
+		},
+		{
+			"id": "50",
+			"name": "Sticker Jawa Part 9",
+			"author": "TouchApp Studio",
+			"folder_link": "https://kuota.web.id/android/stikerwa/jawa9/",
+			"image_cover": "1.png",
+			"lock_item": true,
+			"stickers": [
+				{
+					"image_file": "1.webp"
+				},
+				{
+					"image_file": "2.webp"
+				},
+				{
+					"image_file": "3.webp"
+				},
+				{
+					"image_file": "4.webp"
+				},
+				{
+					"image_file": "5.webp"
+				},
+				{
+					"image_file": "6.webp"
+				},
+				{
+					"image_file": "7.webp"
+				},
+				{
+					"image_file": "8.webp"
+				},
+				{
+					"image_file": "9.webp"
+				},
+				{
+					"image_file": "10.webp"
+				},
+				{
+					"image_file": "11.webp"
+				},
+				{
+					"image_file": "12.webp"
+				},
+				{
+					"image_file": "13.webp"
+				},
+				{
+					"image_file": "14.webp"
+				},
+				{
+					"image_file": "15.webp"
+				},
+				{
+					"image_file": "16.webp"
+				},
+				{
+					"image_file": "17.webp"
+				},
+				{
+					"image_file": "18.webp"
+				},
+				{
+					"image_file": "19.webp"
+				},
+				{
+					"image_file": "20.webp"
+				},
+				{
+					"image_file": "21.webp"
+				},
+				{
+					"image_file": "22.webp"
+				},
+				{
+					"image_file": "23.webp"
+				},
+				{
+					"image_file": "24.webp"
+				},
+				{
+					"image_file": "25.webp"
+				},
+				{
+					"image_file": "26.webp"
+				},
+				{
+					"image_file": "27.webp"
+				},
+				{
+					"image_file": "28.webp"
+				},
+				{
+					"image_file": "29.webp"
+				}
+			]
+		},
+		{
+			"id": "51",
+			"name": "Kue Ulang Tahun Part 1",
+			"author": "TouchApp Studio",
+			"folder_link": "https://kuota.web.id/android/stikerwa/ucapanselamat/Kue%20Ulang%20Tahun%201/",
+			"image_cover": "1.png",
+			"lock_item": false,
+			"stickers": [
+				{
+					"image_file": "1.webp"
+				},
+				{
+					"image_file": "2.webp"
+				},
+				{
+					"image_file": "3.webp"
+				},
+				{
+					"image_file": "4.webp"
+				},
+				{
+					"image_file": "5.webp"
+				},
+				{
+					"image_file": "6.webp"
+				},
+				{
+					"image_file": "7.webp"
+				},
+				{
+					"image_file": "8.webp"
+				},
+				{
+					"image_file": "9.webp"
+				},
+				{
+					"image_file": "10.webp"
+				},
+				{
+					"image_file": "11.webp"
+				},
+				{
+					"image_file": "12.webp"
+				},
+				{
+					"image_file": "13.webp"
+				},
+				{
+					"image_file": "14.webp"
+				},
+				{
+					"image_file": "15.webp"
+				},
+				{
+					"image_file": "16.webp"
+				},
+				{
+					"image_file": "17.webp"
+				},
+				{
+					"image_file": "18.webp"
+				},
+				{
+					"image_file": "19.webp"
+				},
+				{
+					"image_file": "20.webp"
+				}
+			]
+		},
+		{
+			"id": "52",
+			"name": "Kue Ulang Tahun Part 2",
+			"author": "TouchApp Studio",
+			"folder_link": "https://kuota.web.id/android/stikerwa/ucapanselamat/Kue%20Ulang%20Tahun%202/",
+			"image_cover": "1.png",
+			"lock_item": false,
+			"stickers": [
+				{
+					"image_file": "1.webp"
+				},
+				{
+					"image_file": "2.webp"
+				},
+				{
+					"image_file": "3.webp"
+				},
+				{
+					"image_file": "4.webp"
+				},
+				{
+					"image_file": "5.webp"
+				},
+				{
+					"image_file": "6.webp"
+				},
+				{
+					"image_file": "7.webp"
+				},
+				{
+					"image_file": "8.webp"
+				},
+				{
+					"image_file": "9.webp"
+				},
+				{
+					"image_file": "10.webp"
+				},
+				{
+					"image_file": "11.webp"
+				},
+				{
+					"image_file": "12.webp"
+				},
+				{
+					"image_file": "13.webp"
+				},
+				{
+					"image_file": "14.webp"
+				},
+				{
+					"image_file": "15.webp"
+				},
+				{
+					"image_file": "16.webp"
+				},
+				{
+					"image_file": "17.webp"
+				},
+				{
+					"image_file": "18.webp"
+				},
+				{
+					"image_file": "19.webp"
+				},
+				{
+					"image_file": "20.webp"
+				}
+			]
+		},
+		{
+			"id": "53",
+			"name": "Kue Ulang Tahun Part 3",
+			"author": "TouchApp Studio",
+			"folder_link": "https://kuota.web.id/android/stikerwa/ucapanselamat/Kue%20Ulang%20Tahun%203/",
+			"image_cover": "1.png",
+			"lock_item": false,
+			"stickers": [
+				{
+					"image_file": "1.webp"
+				},
+				{
+					"image_file": "2.webp"
+				},
+				{
+					"image_file": "3.webp"
+				},
+				{
+					"image_file": "4.webp"
+				},
+				{
+					"image_file": "5.webp"
+				},
+				{
+					"image_file": "6.webp"
+				},
+				{
+					"image_file": "7.webp"
+				},
+				{
+					"image_file": "8.webp"
+				},
+				{
+					"image_file": "9.webp"
+				},
+				{
+					"image_file": "10.webp"
+				},
+				{
+					"image_file": "11.webp"
+				},
+				{
+					"image_file": "12.webp"
+				},
+				{
+					"image_file": "13.webp"
+				},
+				{
+					"image_file": "14.webp"
+				},
+				{
+					"image_file": "15.webp"
+				},
+				{
+					"image_file": "16.webp"
+				},
+				{
+					"image_file": "17.webp"
+				},
+				{
+					"image_file": "18.webp"
+				},
+				{
+					"image_file": "19.webp"
+				},
+				{
+					"image_file": "20.webp"
+				}
+			]
+		},
+		{
+			"id": "54",
+			"name": "Permintaan Maaf",
+			"author": "TouchApp Studio",
+			"folder_link": "https://kuota.web.id/android/stikerwa/ucapanselamat/Permintaan%20Maaf/",
+			"image_cover": "1.png",
+			"lock_item": false,
+			"stickers": [
+				{
+					"image_file": "1.webp"
+				},
+				{
+					"image_file": "2.webp"
+				},
+				{
+					"image_file": "3.webp"
+				},
+				{
+					"image_file": "4.webp"
+				},
+				{
+					"image_file": "5.webp"
+				},
+				{
+					"image_file": "6.webp"
+				},
+				{
+					"image_file": "7.webp"
+				},
+				{
+					"image_file": "8.webp"
+				},
+				{
+					"image_file": "9.webp"
+				},
+				{
+					"image_file": "10.webp"
+				},
+				{
+					"image_file": "11.webp"
+				},
+				{
+					"image_file": "12.webp"
+				},
+				{
+					"image_file": "13.webp"
+				},
+				{
+					"image_file": "14.webp"
+				},
+				{
+					"image_file": "15.webp"
+				},
+				{
+					"image_file": "16.webp"
+				},
+				{
+					"image_file": "17.webp"
+				},
+				{
+					"image_file": "18.webp"
+				},
+				{
+					"image_file": "19.webp"
+				},
+				{
+					"image_file": "20.webp"
+				}
+			]
+		},
+		{
+			"id": "55",
+			"name": "Selamat Pagi",
+			"author": "TouchApp Studio",
+			"folder_link": "https://kuota.web.id/android/stikerwa/ucapanselamat/Selamat%20Pagi%201/",
+			"image_cover": "1.png",
+			"lock_item": false,
+			"stickers": [
+				{
+					"image_file": "1.webp"
+				},
+				{
+					"image_file": "2.webp"
+				},
+				{
+					"image_file": "3.webp"
+				},
+				{
+					"image_file": "4.webp"
+				},
+				{
+					"image_file": "5.webp"
+				},
+				{
+					"image_file": "6.webp"
+				},
+				{
+					"image_file": "7.webp"
+				},
+				{
+					"image_file": "8.webp"
+				},
+				{
+					"image_file": "9.webp"
+				},
+				{
+					"image_file": "10.webp"
+				},
+				{
+					"image_file": "11.webp"
+				},
+				{
+					"image_file": "12.webp"
+				},
+				{
+					"image_file": "13.webp"
+				},
+				{
+					"image_file": "14.webp"
+				},
+				{
+					"image_file": "15.webp"
+				},
+				{
+					"image_file": "16.webp"
+				},
+				{
+					"image_file": "17.webp"
+				},
+				{
+					"image_file": "18.webp"
+				},
+				{
+					"image_file": "19.webp"
+				},
+				{
+					"image_file": "20.webp"
+				}
+			]
+		},
+		{
+			"id": "56",
+			"name": "Selamat Pagi Part 2",
+			"author": "TouchApp Studio",
+			"folder_link": "https://kuota.web.id/android/stikerwa/ucapanselamat/Selamat%20Pagi%202/",
+			"image_cover": "1.png",
+			"lock_item": false,
+			"stickers": [
+				{
+					"image_file": "1.webp"
+				},
+				{
+					"image_file": "2.webp"
+				},
+				{
+					"image_file": "3.webp"
+				},
+				{
+					"image_file": "4.webp"
+				},
+				{
+					"image_file": "5.webp"
+				},
+				{
+					"image_file": "6.webp"
+				},
+				{
+					"image_file": "7.webp"
+				},
+				{
+					"image_file": "8.webp"
+				},
+				{
+					"image_file": "9.webp"
+				},
+				{
+					"image_file": "10.webp"
+				},
+				{
+					"image_file": "11.webp"
+				},
+				{
+					"image_file": "12.webp"
+				},
+				{
+					"image_file": "13.webp"
+				},
+				{
+					"image_file": "14.webp"
+				},
+				{
+					"image_file": "15.webp"
+				},
+				{
+					"image_file": "16.webp"
+				},
+				{
+					"image_file": "17.webp"
+				},
+				{
+					"image_file": "18.webp"
+				},
+				{
+					"image_file": "19.webp"
+				},
+				{
+					"image_file": "20.webp"
+				}
+			]
+		},
+		{
+			"id": "57",
+			"name": "Selamat Pagi Part 3",
+			"author": "TouchApp Studio",
+			"folder_link": "https://kuota.web.id/android/stikerwa/ucapanselamat/Selamat%20Pagi%203/",
+			"image_cover": "1.png",
+			"lock_item": false,
+			"stickers": [
+				{
+					"image_file": "1.webp"
+				},
+				{
+					"image_file": "2.webp"
+				},
+				{
+					"image_file": "3.webp"
+				},
+				{
+					"image_file": "4.webp"
+				},
+				{
+					"image_file": "5.webp"
+				},
+				{
+					"image_file": "6.webp"
+				},
+				{
+					"image_file": "7.webp"
+				},
+				{
+					"image_file": "8.webp"
+				},
+				{
+					"image_file": "9.webp"
+				},
+				{
+					"image_file": "10.webp"
+				},
+				{
+					"image_file": "11.webp"
+				},
+				{
+					"image_file": "12.webp"
+				},
+				{
+					"image_file": "13.webp"
+				},
+				{
+					"image_file": "14.webp"
+				},
+				{
+					"image_file": "15.webp"
+				},
+				{
+					"image_file": "16.webp"
+				},
+				{
+					"image_file": "17.webp"
+				},
+				{
+					"image_file": "18.webp"
+				},
+				{
+					"image_file": "19.webp"
+				},
+				{
+					"image_file": "20.webp"
+				}
+			]
+		},
+		{
+			"id": "58",
+			"name": "Selamat Pagi Part 4",
+			"author": "TouchApp Studio",
+			"folder_link": "https://kuota.web.id/android/stikerwa/ucapanselamat/Selamat%20Pagi%204/",
+			"image_cover": "1.png",
+			"lock_item": false,
+			"stickers": [
+				{
+					"image_file": "1.webp"
+				},
+				{
+					"image_file": "2.webp"
+				},
+				{
+					"image_file": "3.webp"
+				},
+				{
+					"image_file": "4.webp"
+				},
+				{
+					"image_file": "5.webp"
+				},
+				{
+					"image_file": "6.webp"
+				},
+				{
+					"image_file": "7.webp"
+				},
+				{
+					"image_file": "8.webp"
+				},
+				{
+					"image_file": "9.webp"
+				},
+				{
+					"image_file": "10.webp"
+				},
+				{
+					"image_file": "11.webp"
+				},
+				{
+					"image_file": "12.webp"
+				},
+				{
+					"image_file": "13.webp"
+				},
+				{
+					"image_file": "14.webp"
+				},
+				{
+					"image_file": "15.webp"
+				},
+				{
+					"image_file": "16.webp"
+				},
+				{
+					"image_file": "17.webp"
+				},
+				{
+					"image_file": "18.webp"
+				},
+				{
+					"image_file": "19.webp"
+				},
+				{
+					"image_file": "20.webp"
+				}
+			]
+		},
+		{
+			"id": "59",
+			"name": "Selamat Malam",
+			"author": "TouchApp Studio",
+			"folder_link": "https://kuota.web.id/android/stikerwa/ucapanselamat/Selamat%20Malam%201/",
+			"image_cover": "1.png",
+			"lock_item": false,
+			"stickers": [
+				{
+					"image_file": "1.webp"
+				},
+				{
+					"image_file": "2.webp"
+				},
+				{
+					"image_file": "3.webp"
+				},
+				{
+					"image_file": "4.webp"
+				},
+				{
+					"image_file": "5.webp"
+				},
+				{
+					"image_file": "6.webp"
+				},
+				{
+					"image_file": "7.webp"
+				},
+				{
+					"image_file": "8.webp"
+				},
+				{
+					"image_file": "9.webp"
+				},
+				{
+					"image_file": "10.webp"
+				},
+				{
+					"image_file": "11.webp"
+				},
+				{
+					"image_file": "12.webp"
+				},
+				{
+					"image_file": "13.webp"
+				},
+				{
+					"image_file": "14.webp"
+				},
+				{
+					"image_file": "15.webp"
+				},
+				{
+					"image_file": "16.webp"
+				},
+				{
+					"image_file": "17.webp"
+				},
+				{
+					"image_file": "18.webp"
+				},
+				{
+					"image_file": "19.webp"
+				},
+				{
+					"image_file": "20.webp"
+				}
+			]
+		},
+		{
+			"id": "60",
+			"name": "Selamat Malam Part 2",
+			"author": "TouchApp Studio",
+			"folder_link": "https://kuota.web.id/android/stikerwa/ucapanselamat/Selamat%20Malam%202/",
+			"image_cover": "1.png",
+			"lock_item": true,
+			"stickers": [
+				{
+					"image_file": "1.webp"
+				},
+				{
+					"image_file": "2.webp"
+				},
+				{
+					"image_file": "3.webp"
+				},
+				{
+					"image_file": "4.webp"
+				},
+				{
+					"image_file": "5.webp"
+				},
+				{
+					"image_file": "6.webp"
+				},
+				{
+					"image_file": "7.webp"
+				},
+				{
+					"image_file": "8.webp"
+				},
+				{
+					"image_file": "9.webp"
+				},
+				{
+					"image_file": "10.webp"
+				},
+				{
+					"image_file": "11.webp"
+				},
+				{
+					"image_file": "12.webp"
+				},
+				{
+					"image_file": "13.webp"
+				},
+				{
+					"image_file": "14.webp"
+				},
+				{
+					"image_file": "15.webp"
+				},
+				{
+					"image_file": "16.webp"
+				},
+				{
+					"image_file": "17.webp"
+				},
+				{
+					"image_file": "18.webp"
+				},
+				{
+					"image_file": "19.webp"
+				},
+				{
+					"image_file": "20.webp"
+				}
+			]
+		},
+		{
+			"id": "61",
+			"name": "Selamat Malam Part 3",
+			"author": "TouchApp Studio",
+			"folder_link": "https://kuota.web.id/android/stikerwa/ucapanselamat/Selamat%20Malam%203/",
+			"image_cover": "1.png",
+			"lock_item": false,
+			"stickers": [
+				{
+					"image_file": "1.webp"
+				},
+				{
+					"image_file": "2.webp"
+				},
+				{
+					"image_file": "3.webp"
+				},
+				{
+					"image_file": "4.webp"
+				},
+				{
+					"image_file": "5.webp"
+				},
+				{
+					"image_file": "6.webp"
+				},
+				{
+					"image_file": "7.webp"
+				},
+				{
+					"image_file": "8.webp"
+				},
+				{
+					"image_file": "9.webp"
+				},
+				{
+					"image_file": "10.webp"
+				},
+				{
+					"image_file": "11.webp"
+				},
+				{
+					"image_file": "12.webp"
+				},
+				{
+					"image_file": "13.webp"
+				},
+				{
+					"image_file": "14.webp"
+				},
+				{
+					"image_file": "15.webp"
+				},
+				{
+					"image_file": "16.webp"
+				},
+				{
+					"image_file": "17.webp"
+				},
+				{
+					"image_file": "18.webp"
+				},
+				{
+					"image_file": "19.webp"
+				},
+				{
+					"image_file": "20.webp"
+				}
+			]
+		},
+		{
+			"id": "62",
+			"name": "Selamat Malam Part 4",
+			"author": "TouchApp Studio",
+			"folder_link": "https://kuota.web.id/android/stikerwa/ucapanselamat/Selamat%20Malam%204/",
+			"image_cover": "1.png",
+			"lock_item": true,
+			"stickers": [
+				{
+					"image_file": "1.webp"
+				},
+				{
+					"image_file": "2.webp"
+				},
+				{
+					"image_file": "3.webp"
+				},
+				{
+					"image_file": "4.webp"
+				},
+				{
+					"image_file": "5.webp"
+				},
+				{
+					"image_file": "6.webp"
+				},
+				{
+					"image_file": "7.webp"
+				},
+				{
+					"image_file": "8.webp"
+				},
+				{
+					"image_file": "9.webp"
+				},
+				{
+					"image_file": "10.webp"
+				},
+				{
+					"image_file": "11.webp"
+				},
+				{
+					"image_file": "12.webp"
+				},
+				{
+					"image_file": "13.webp"
+				},
+				{
+					"image_file": "14.webp"
+				},
+				{
+					"image_file": "15.webp"
+				},
+				{
+					"image_file": "16.webp"
+				},
+				{
+					"image_file": "17.webp"
+				},
+				{
+					"image_file": "18.webp"
+				},
+				{
+					"image_file": "19.webp"
+				},
+				{
+					"image_file": "20.webp"
+				}
+			]
+		},
+		{
+			"id": "63",
+			"name": "Selamat Tahun Baru",
+			"author": "TouchApp Studio",
+			"folder_link": "https://kuota.web.id/android/stikerwa/ucapanselamat/Tahun%20Baru%201/",
+			"image_cover": "1.png",
+			"lock_item": false,
+			"stickers": [
+				{
+					"image_file": "1.webp"
+				},
+				{
+					"image_file": "2.webp"
+				},
+				{
+					"image_file": "3.webp"
+				},
+				{
+					"image_file": "4.webp"
+				},
+				{
+					"image_file": "5.webp"
+				},
+				{
+					"image_file": "6.webp"
+				},
+				{
+					"image_file": "7.webp"
+				},
+				{
+					"image_file": "8.webp"
+				},
+				{
+					"image_file": "9.webp"
+				},
+				{
+					"image_file": "10.webp"
+				},
+				{
+					"image_file": "11.webp"
+				},
+				{
+					"image_file": "12.webp"
+				},
+				{
+					"image_file": "13.webp"
+				},
+				{
+					"image_file": "14.webp"
+				},
+				{
+					"image_file": "15.webp"
+				},
+				{
+					"image_file": "16.webp"
+				},
+				{
+					"image_file": "17.webp"
+				},
+				{
+					"image_file": "18.webp"
+				},
+				{
+					"image_file": "19.webp"
+				},
+				{
+					"image_file": "20.webp"
+				}
+			]
+		},
+		{
+			"id": "64",
+			"name": "Selamat Tahun Baru Part 2",
+			"author": "TouchApp Studio",
+			"folder_link": "https://kuota.web.id/android/stikerwa/ucapanselamat/Tahun%20Baru%202/",
+			"image_cover": "1.png",
+			"lock_item": false,
+			"stickers": [
+				{
+					"image_file": "1.webp"
+				},
+				{
+					"image_file": "2.webp"
+				},
+				{
+					"image_file": "3.webp"
+				},
+				{
+					"image_file": "4.webp"
+				},
+				{
+					"image_file": "5.webp"
+				},
+				{
+					"image_file": "6.webp"
+				},
+				{
+					"image_file": "7.webp"
+				},
+				{
+					"image_file": "8.webp"
+				},
+				{
+					"image_file": "9.webp"
+				},
+				{
+					"image_file": "10.webp"
+				},
+				{
+					"image_file": "11.webp"
+				},
+				{
+					"image_file": "12.webp"
+				},
+				{
+					"image_file": "13.webp"
+				},
+				{
+					"image_file": "14.webp"
+				},
+				{
+					"image_file": "15.webp"
+				},
+				{
+					"image_file": "16.webp"
+				},
+				{
+					"image_file": "17.webp"
+				},
+				{
+					"image_file": "18.webp"
+				},
+				{
+					"image_file": "19.webp"
+				},
+				{
+					"image_file": "20.webp"
+				}
+			]
+		},
+		{
+			"id": "65",
+			"name": "Selamat Tahun Baru Part 3",
+			"author": "TouchApp Studio",
+			"folder_link": "https://kuota.web.id/android/stikerwa/ucapanselamat/Tahun%20Baru%203/",
+			"image_cover": "1.png",
+			"lock_item": false,
+			"stickers": [
+				{
+					"image_file": "1.webp"
+				},
+				{
+					"image_file": "2.webp"
+				},
+				{
+					"image_file": "3.webp"
+				},
+				{
+					"image_file": "4.webp"
+				},
+				{
+					"image_file": "5.webp"
+				},
+				{
+					"image_file": "6.webp"
+				},
+				{
+					"image_file": "7.webp"
+				},
+				{
+					"image_file": "8.webp"
+				},
+				{
+					"image_file": "9.webp"
+				},
+				{
+					"image_file": "10.webp"
+				},
+				{
+					"image_file": "11.webp"
+				},
+				{
+					"image_file": "12.webp"
+				},
+				{
+					"image_file": "13.webp"
+				},
+				{
+					"image_file": "14.webp"
+				},
+				{
+					"image_file": "15.webp"
+				},
+				{
+					"image_file": "16.webp"
+				},
+				{
+					"image_file": "17.webp"
+				},
+				{
+					"image_file": "18.webp"
+				},
+				{
+					"image_file": "19.webp"
+				},
+				{
+					"image_file": "20.webp"
+				}
+			]
+		},
+		{
+			"id": "66",
+			"name": "Selamat Tahun Baru Part 4",
+			"author": "TouchApp Studio",
+			"folder_link": "https://kuota.web.id/android/stikerwa/ucapanselamat/Tahun%20Baru%204/",
+			"image_cover": "1.png",
+			"lock_item": false,
+			"stickers": [
+				{
+					"image_file": "1.webp"
+				},
+				{
+					"image_file": "2.webp"
+				},
+				{
+					"image_file": "3.webp"
+				},
+				{
+					"image_file": "4.webp"
+				},
+				{
+					"image_file": "5.webp"
+				},
+				{
+					"image_file": "6.webp"
+				},
+				{
+					"image_file": "7.webp"
+				},
+				{
+					"image_file": "8.webp"
+				},
+				{
+					"image_file": "9.webp"
+				},
+				{
+					"image_file": "10.webp"
+				},
+				{
+					"image_file": "11.webp"
+				},
+				{
+					"image_file": "12.webp"
+				},
+				{
+					"image_file": "13.webp"
+				},
+				{
+					"image_file": "14.webp"
+				},
+				{
+					"image_file": "15.webp"
+				},
+				{
+					"image_file": "16.webp"
+				},
+				{
+					"image_file": "17.webp"
+				},
+				{
+					"image_file": "18.webp"
+				},
+				{
+					"image_file": "19.webp"
+				},
+				{
+					"image_file": "20.webp"
+				}
+			]
+		},
+		{
+			"id": "67",
+			"name": "Selamat Tahun Baru Part 5",
+			"author": "TouchApp Studio",
+			"folder_link": "https://kuota.web.id/android/stikerwa/ucapanselamat/Tahun%20Baru%205/",
+			"image_cover": "1.png",
+			"lock_item": false,
+			"stickers": [
+				{
+					"image_file": "1.webp"
+				},
+				{
+					"image_file": "2.webp"
+				},
+				{
+					"image_file": "3.webp"
+				},
+				{
+					"image_file": "4.webp"
+				},
+				{
+					"image_file": "5.webp"
+				},
+				{
+					"image_file": "6.webp"
+				},
+				{
+					"image_file": "7.webp"
+				},
+				{
+					"image_file": "8.webp"
+				},
+				{
+					"image_file": "9.webp"
+				},
+				{
+					"image_file": "10.webp"
+				},
+				{
+					"image_file": "11.webp"
+				},
+				{
+					"image_file": "12.webp"
+				},
+				{
+					"image_file": "13.webp"
+				},
+				{
+					"image_file": "14.webp"
+				},
+				{
+					"image_file": "15.webp"
+				},
+				{
+					"image_file": "16.webp"
+				},
+				{
+					"image_file": "17.webp"
+				},
+				{
+					"image_file": "18.webp"
+				},
+				{
+					"image_file": "19.webp"
+				},
+				{
+					"image_file": "20.webp"
+				}
+			]
+		},
+		{
+			"id": "68",
+			"name": "Selamat Tahun Baru Part 6",
+			"author": "TouchApp Studio",
+			"folder_link": "https://kuota.web.id/android/stikerwa/ucapanselamat/Tahun%20Baru%206/",
+			"image_cover": "1.png",
+			"lock_item": false,
+			"stickers": [
+				{
+					"image_file": "1.webp"
+				},
+				{
+					"image_file": "2.webp"
+				},
+				{
+					"image_file": "3.webp"
+				},
+				{
+					"image_file": "4.webp"
+				},
+				{
+					"image_file": "5.webp"
+				},
+				{
+					"image_file": "6.webp"
+				},
+				{
+					"image_file": "7.webp"
+				},
+				{
+					"image_file": "8.webp"
+				},
+				{
+					"image_file": "9.webp"
+				},
+				{
+					"image_file": "10.webp"
+				},
+				{
+					"image_file": "11.webp"
+				},
+				{
+					"image_file": "12.webp"
+				},
+				{
+					"image_file": "13.webp"
+				},
+				{
+					"image_file": "14.webp"
+				},
+				{
+					"image_file": "15.webp"
+				},
+				{
+					"image_file": "16.webp"
+				},
+				{
+					"image_file": "17.webp"
+				},
+				{
+					"image_file": "18.webp"
+				},
+				{
+					"image_file": "19.webp"
+				},
+				{
+					"image_file": "20.webp"
+				}
+			]
+		},
+		{
+			"id": "69",
+			"name": "Ucapan Cinta",
+			"author": "TouchApp Studio",
+			"folder_link": "https://kuota.web.id/android/stikerwa/ucapanselamat/Ucapan%20Cinta%201/",
+			"image_cover": "1.png",
+			"lock_item": false,
+			"stickers": [
+				{
+					"image_file": "1.webp"
+				},
+				{
+					"image_file": "2.webp"
+				},
+				{
+					"image_file": "3.webp"
+				},
+				{
+					"image_file": "4.webp"
+				},
+				{
+					"image_file": "5.webp"
+				},
+				{
+					"image_file": "6.webp"
+				},
+				{
+					"image_file": "7.webp"
+				},
+				{
+					"image_file": "8.webp"
+				},
+				{
+					"image_file": "9.webp"
+				},
+				{
+					"image_file": "10.webp"
+				},
+				{
+					"image_file": "11.webp"
+				},
+				{
+					"image_file": "12.webp"
+				},
+				{
+					"image_file": "13.webp"
+				},
+				{
+					"image_file": "14.webp"
+				},
+				{
+					"image_file": "15.webp"
+				},
+				{
+					"image_file": "16.webp"
+				},
+				{
+					"image_file": "17.webp"
+				},
+				{
+					"image_file": "18.webp"
+				},
+				{
+					"image_file": "19.webp"
+				},
+				{
+					"image_file": "20.webp"
+				}
+			]
+		},
+		{
+			"id": "70",
+			"name": "Ucapan Cinta Part 2",
+			"author": "TouchApp Studio",
+			"folder_link": "https://kuota.web.id/android/stikerwa/ucapanselamat/Ucapan%20Cinta%202/",
+			"image_cover": "1.png",
+			"lock_item": false,
+			"stickers": [
+				{
+					"image_file": "1.webp"
+				},
+				{
+					"image_file": "2.webp"
+				},
+				{
+					"image_file": "3.webp"
+				},
+				{
+					"image_file": "4.webp"
+				},
+				{
+					"image_file": "5.webp"
+				},
+				{
+					"image_file": "6.webp"
+				},
+				{
+					"image_file": "7.webp"
+				},
+				{
+					"image_file": "8.webp"
+				},
+				{
+					"image_file": "9.webp"
+				},
+				{
+					"image_file": "10.webp"
+				},
+				{
+					"image_file": "11.webp"
+				},
+				{
+					"image_file": "12.webp"
+				},
+				{
+					"image_file": "13.webp"
+				},
+				{
+					"image_file": "14.webp"
+				},
+				{
+					"image_file": "15.webp"
+				},
+				{
+					"image_file": "16.webp"
+				},
+				{
+					"image_file": "17.webp"
+				},
+				{
+					"image_file": "18.webp"
+				},
+				{
+					"image_file": "19.webp"
+				},
+				{
+					"image_file": "20.webp"
+				}
+			]
+		},
+		{
+			"id": "71",
+			"name": "Ucapan Cinta Part 3",
+			"author": "TouchApp Studio",
+			"folder_link": "https://kuota.web.id/android/stikerwa/ucapanselamat/Ucapan%20Cinta%203/",
+			"image_cover": "1.png",
+			"lock_item": false,
+			"stickers": [
+				{
+					"image_file": "1.webp"
+				},
+				{
+					"image_file": "2.webp"
+				},
+				{
+					"image_file": "3.webp"
+				},
+				{
+					"image_file": "4.webp"
+				},
+				{
+					"image_file": "5.webp"
+				},
+				{
+					"image_file": "6.webp"
+				},
+				{
+					"image_file": "7.webp"
+				},
+				{
+					"image_file": "8.webp"
+				},
+				{
+					"image_file": "9.webp"
+				},
+				{
+					"image_file": "10.webp"
+				},
+				{
+					"image_file": "11.webp"
+				},
+				{
+					"image_file": "12.webp"
+				},
+				{
+					"image_file": "13.webp"
+				},
+				{
+					"image_file": "14.webp"
+				},
+				{
+					"image_file": "15.webp"
+				},
+				{
+					"image_file": "16.webp"
+				},
+				{
+					"image_file": "17.webp"
+				},
+				{
+					"image_file": "18.webp"
+				},
+				{
+					"image_file": "19.webp"
+				},
+				{
+					"image_file": "20.webp"
+				}
+			]
+		},
+		{
+			"id": "72",
+			"name": "Ucapan Cinta Part 4",
+			"author": "TouchApp Studio",
+			"folder_link": "https://kuota.web.id/android/stikerwa/ucapanselamat/Ucapan%20Cinta%204/",
+			"image_cover": "1.png",
+			"lock_item": false,
+			"stickers": [
+				{
+					"image_file": "1.webp"
+				},
+				{
+					"image_file": "2.webp"
+				},
+				{
+					"image_file": "3.webp"
+				},
+				{
+					"image_file": "4.webp"
+				},
+				{
+					"image_file": "5.webp"
+				},
+				{
+					"image_file": "6.webp"
+				},
+				{
+					"image_file": "7.webp"
+				},
+				{
+					"image_file": "8.webp"
+				},
+				{
+					"image_file": "9.webp"
+				},
+				{
+					"image_file": "10.webp"
+				},
+				{
+					"image_file": "11.webp"
+				},
+				{
+					"image_file": "12.webp"
+				},
+				{
+					"image_file": "13.webp"
+				},
+				{
+					"image_file": "14.webp"
+				},
+				{
+					"image_file": "15.webp"
+				},
+				{
+					"image_file": "16.webp"
+				},
+				{
+					"image_file": "17.webp"
+				},
+				{
+					"image_file": "18.webp"
+				},
+				{
+					"image_file": "19.webp"
+				},
+				{
+					"image_file": "20.webp"
+				}
+			]
+		},
+		{
+			"id": "73",
+			"name": "Ucapan Cinta Part 5",
+			"author": "TouchApp Studio",
+			"folder_link": "https://kuota.web.id/android/stikerwa/ucapanselamat/Ucapan%20Cinta%205/",
+			"image_cover": "1.png",
+			"lock_item": true,
+			"stickers": [
+				{
+					"image_file": "1.webp"
+				},
+				{
+					"image_file": "2.webp"
+				},
+				{
+					"image_file": "3.webp"
+				},
+				{
+					"image_file": "4.webp"
+				},
+				{
+					"image_file": "5.webp"
+				},
+				{
+					"image_file": "6.webp"
+				},
+				{
+					"image_file": "7.webp"
+				},
+				{
+					"image_file": "8.webp"
+				},
+				{
+					"image_file": "9.webp"
+				},
+				{
+					"image_file": "10.webp"
+				},
+				{
+					"image_file": "11.webp"
+				},
+				{
+					"image_file": "12.webp"
+				},
+				{
+					"image_file": "13.webp"
+				},
+				{
+					"image_file": "14.webp"
+				},
+				{
+					"image_file": "15.webp"
+				},
+				{
+					"image_file": "16.webp"
+				},
+				{
+					"image_file": "17.webp"
+				},
+				{
+					"image_file": "18.webp"
+				},
+				{
+					"image_file": "19.webp"
+				},
+				{
+					"image_file": "20.webp"
+				}
+			]
+		},
+		{
+			"id": "74",
+			"name": "Ucapan Cinta Part 6",
+			"author": "TouchApp Studio",
+			"folder_link": "https://kuota.web.id/android/stikerwa/ucapanselamat/Ucapan%20Cinta%206/",
+			"image_cover": "1.png",
+			"lock_item": false,
+			"stickers": [
+				{
+					"image_file": "1.webp"
+				},
+				{
+					"image_file": "2.webp"
+				},
+				{
+					"image_file": "3.webp"
+				},
+				{
+					"image_file": "4.webp"
+				},
+				{
+					"image_file": "5.webp"
+				},
+				{
+					"image_file": "6.webp"
+				},
+				{
+					"image_file": "7.webp"
+				},
+				{
+					"image_file": "8.webp"
+				},
+				{
+					"image_file": "9.webp"
+				},
+				{
+					"image_file": "10.webp"
+				},
+				{
+					"image_file": "11.webp"
+				},
+				{
+					"image_file": "12.webp"
+				},
+				{
+					"image_file": "13.webp"
+				},
+				{
+					"image_file": "14.webp"
+				},
+				{
+					"image_file": "15.webp"
+				},
+				{
+					"image_file": "16.webp"
+				},
+				{
+					"image_file": "17.webp"
+				},
+				{
+					"image_file": "18.webp"
+				},
+				{
+					"image_file": "19.webp"
+				},
+				{
+					"image_file": "20.webp"
+				}
+			]
+		},
+		{
+			"id": "75",
+			"name": "Ucapan Ayah",
+			"author": "TouchApp Studio",
+			"folder_link": "https://kuota.web.id/android/stikerwa/ucapanselamat/Ucapan%20Hari%20Ayah%201/",
+			"image_cover": "1.png",
+			"lock_item": false,
+			"stickers": [
+				{
+					"image_file": "1.webp"
+				},
+				{
+					"image_file": "2.webp"
+				},
+				{
+					"image_file": "3.webp"
+				},
+				{
+					"image_file": "4.webp"
+				},
+				{
+					"image_file": "5.webp"
+				},
+				{
+					"image_file": "6.webp"
+				},
+				{
+					"image_file": "7.webp"
+				},
+				{
+					"image_file": "8.webp"
+				},
+				{
+					"image_file": "9.webp"
+				},
+				{
+					"image_file": "10.webp"
+				},
+				{
+					"image_file": "11.webp"
+				},
+				{
+					"image_file": "12.webp"
+				},
+				{
+					"image_file": "13.webp"
+				},
+				{
+					"image_file": "14.webp"
+				},
+				{
+					"image_file": "15.webp"
+				},
+				{
+					"image_file": "16.webp"
+				},
+				{
+					"image_file": "17.webp"
+				},
+				{
+					"image_file": "18.webp"
+				},
+				{
+					"image_file": "19.webp"
+				},
+				{
+					"image_file": "20.webp"
+				}
+			]
+		},
+		{
+			"id": "76",
+			"name": "Ucapan Ayah Part 2",
+			"author": "TouchApp Studio",
+			"folder_link": "https://kuota.web.id/android/stikerwa/ucapanselamat/Ucapan%20Hari%20Ayah%202/",
+			"image_cover": "1.png",
+			"lock_item": false,
+			"stickers": [
+				{
+					"image_file": "1.webp"
+				},
+				{
+					"image_file": "2.webp"
+				},
+				{
+					"image_file": "3.webp"
+				},
+				{
+					"image_file": "4.webp"
+				},
+				{
+					"image_file": "5.webp"
+				},
+				{
+					"image_file": "6.webp"
+				},
+				{
+					"image_file": "7.webp"
+				},
+				{
+					"image_file": "8.webp"
+				},
+				{
+					"image_file": "9.webp"
+				},
+				{
+					"image_file": "10.webp"
+				},
+				{
+					"image_file": "11.webp"
+				},
+				{
+					"image_file": "12.webp"
+				},
+				{
+					"image_file": "13.webp"
+				},
+				{
+					"image_file": "14.webp"
+				},
+				{
+					"image_file": "15.webp"
+				},
+				{
+					"image_file": "16.webp"
+				},
+				{
+					"image_file": "17.webp"
+				},
+				{
+					"image_file": "18.webp"
+				},
+				{
+					"image_file": "19.webp"
+				},
+				{
+					"image_file": "20.webp"
+				}
+			]
+		},
+		{
+			"id": "77",
+			"name": "Ucapan Ayah Part 3",
+			"author": "TouchApp Studio",
+			"folder_link": "https://kuota.web.id/android/stikerwa/ucapanselamat/Ucapan%20Hari%20Ayah%203/",
+			"image_cover": "1.png",
+			"lock_item": false,
+			"stickers": [
+				{
+					"image_file": "1.webp"
+				},
+				{
+					"image_file": "2.webp"
+				},
+				{
+					"image_file": "3.webp"
+				},
+				{
+					"image_file": "4.webp"
+				},
+				{
+					"image_file": "5.webp"
+				},
+				{
+					"image_file": "6.webp"
+				},
+				{
+					"image_file": "7.webp"
+				},
+				{
+					"image_file": "8.webp"
+				},
+				{
+					"image_file": "9.webp"
+				},
+				{
+					"image_file": "10.webp"
+				},
+				{
+					"image_file": "11.webp"
+				},
+				{
+					"image_file": "12.webp"
+				},
+				{
+					"image_file": "13.webp"
+				},
+				{
+					"image_file": "14.webp"
+				},
+				{
+					"image_file": "15.webp"
+				},
+				{
+					"image_file": "16.webp"
+				},
+				{
+					"image_file": "17.webp"
+				},
+				{
+					"image_file": "18.webp"
+				},
+				{
+					"image_file": "19.webp"
+				},
+				{
+					"image_file": "20.webp"
+				}
+			]
+		},
+		{
+			"id": "78",
+			"name": "Ucapan Hari Baik",
+			"author": "TouchApp Studio",
+			"folder_link": "https://kuota.web.id/android/stikerwa/ucapanselamat/Ucapan%20Hari%20Baik/",
+			"image_cover": "1.png",
+			"lock_item": false,
+			"stickers": [
+				{
+					"image_file": "1.webp"
+				},
+				{
+					"image_file": "2.webp"
+				},
+				{
+					"image_file": "3.webp"
+				},
+				{
+					"image_file": "4.webp"
+				},
+				{
+					"image_file": "5.webp"
+				},
+				{
+					"image_file": "6.webp"
+				},
+				{
+					"image_file": "7.webp"
+				},
+				{
+					"image_file": "8.webp"
+				},
+				{
+					"image_file": "9.webp"
+				},
+				{
+					"image_file": "10.webp"
+				},
+				{
+					"image_file": "11.webp"
+				},
+				{
+					"image_file": "12.webp"
+				},
+				{
+					"image_file": "13.webp"
+				},
+				{
+					"image_file": "14.webp"
+				},
+				{
+					"image_file": "15.webp"
+				},
+				{
+					"image_file": "16.webp"
+				},
+				{
+					"image_file": "17.webp"
+				},
+				{
+					"image_file": "18.webp"
+				},
+				{
+					"image_file": "19.webp"
+				},
+				{
+					"image_file": "20.webp"
+				}
+			]
+		},
+		{
+			"id": "79",
+			"name": "Ucapan Hari Ibu",
+			"author": "TouchApp Studio",
+			"folder_link": "https://kuota.web.id/android/stikerwa/ucapanselamat/Ucapan%20Hari%20Ibu%201/",
+			"image_cover": "1.png",
+			"lock_item": false,
+			"stickers": [
+				{
+					"image_file": "1.webp"
+				},
+				{
+					"image_file": "2.webp"
+				},
+				{
+					"image_file": "3.webp"
+				},
+				{
+					"image_file": "4.webp"
+				},
+				{
+					"image_file": "5.webp"
+				},
+				{
+					"image_file": "6.webp"
+				},
+				{
+					"image_file": "7.webp"
+				},
+				{
+					"image_file": "8.webp"
+				},
+				{
+					"image_file": "9.webp"
+				},
+				{
+					"image_file": "10.webp"
+				},
+				{
+					"image_file": "11.webp"
+				},
+				{
+					"image_file": "12.webp"
+				},
+				{
+					"image_file": "13.webp"
+				},
+				{
+					"image_file": "14.webp"
+				},
+				{
+					"image_file": "15.webp"
+				},
+				{
+					"image_file": "16.webp"
+				},
+				{
+					"image_file": "17.webp"
+				},
+				{
+					"image_file": "18.webp"
+				},
+				{
+					"image_file": "19.webp"
+				},
+				{
+					"image_file": "20.webp"
+				}
+			]
+		},
+		{
+			"id": "80",
+			"name": "Ucapan Hari Ibu part 2",
+			"author": "TouchApp Studio",
+			"folder_link": "https://kuota.web.id/android/stikerwa/ucapanselamat/Ucapan%20Hari%20Ibu%202/",
+			"image_cover": "1.png",
+			"lock_item": false,
+			"stickers": [
+				{
+					"image_file": "1.webp"
+				},
+				{
+					"image_file": "2.webp"
+				},
+				{
+					"image_file": "3.webp"
+				},
+				{
+					"image_file": "4.webp"
+				},
+				{
+					"image_file": "5.webp"
+				},
+				{
+					"image_file": "6.webp"
+				},
+				{
+					"image_file": "7.webp"
+				},
+				{
+					"image_file": "8.webp"
+				},
+				{
+					"image_file": "9.webp"
+				},
+				{
+					"image_file": "10.webp"
+				},
+				{
+					"image_file": "11.webp"
+				},
+				{
+					"image_file": "12.webp"
+				},
+				{
+					"image_file": "13.webp"
+				},
+				{
+					"image_file": "14.webp"
+				},
+				{
+					"image_file": "15.webp"
+				},
+				{
+					"image_file": "16.webp"
+				},
+				{
+					"image_file": "17.webp"
+				},
+				{
+					"image_file": "18.webp"
+				},
+				{
+					"image_file": "19.webp"
+				},
+				{
+					"image_file": "20.webp"
+				}
+			]
+		},
+		{
+			"id": "81",
+			"name": "Ucapan Idul Fitri",
+			"author": "TouchApp Studio",
+			"folder_link": "https://kuota.web.id/android/stikerwa/ucapanselamat/Ucapan%20Idul%20Fitri%201/",
+			"image_cover": "1.png",
+			"lock_item": false,
+			"stickers": [
+				{
+					"image_file": "1.webp"
+				},
+				{
+					"image_file": "2.webp"
+				},
+				{
+					"image_file": "3.webp"
+				},
+				{
+					"image_file": "4.webp"
+				},
+				{
+					"image_file": "5.webp"
+				},
+				{
+					"image_file": "6.webp"
+				},
+				{
+					"image_file": "7.webp"
+				},
+				{
+					"image_file": "8.webp"
+				},
+				{
+					"image_file": "9.webp"
+				},
+				{
+					"image_file": "10.webp"
+				},
+				{
+					"image_file": "11.webp"
+				},
+				{
+					"image_file": "12.webp"
+				},
+				{
+					"image_file": "13.webp"
+				},
+				{
+					"image_file": "14.webp"
+				},
+				{
+					"image_file": "15.webp"
+				},
+				{
+					"image_file": "16.webp"
+				},
+				{
+					"image_file": "17.webp"
+				},
+				{
+					"image_file": "18.webp"
+				},
+				{
+					"image_file": "19.webp"
+				},
+				{
+					"image_file": "20.webp"
+				}
+			]
+		},
+		{
+			"id": "82",
+			"name": "Ucapan Idul Fitri Part 2",
+			"author": "TouchApp Studio",
+			"folder_link": "https://kuota.web.id/android/stikerwa/ucapanselamat/Ucapan%20Idul%20Fitri%202/",
+			"image_cover": "1.png",
+			"lock_item": false,
+			"stickers": [
+				{
+					"image_file": "1.webp"
+				},
+				{
+					"image_file": "2.webp"
+				},
+				{
+					"image_file": "3.webp"
+				},
+				{
+					"image_file": "4.webp"
+				},
+				{
+					"image_file": "5.webp"
+				},
+				{
+					"image_file": "6.webp"
+				},
+				{
+					"image_file": "7.webp"
+				},
+				{
+					"image_file": "8.webp"
+				},
+				{
+					"image_file": "9.webp"
+				},
+				{
+					"image_file": "10.webp"
+				},
+				{
+					"image_file": "11.webp"
+				},
+				{
+					"image_file": "12.webp"
+				},
+				{
+					"image_file": "13.webp"
+				},
+				{
+					"image_file": "14.webp"
+				},
+				{
+					"image_file": "15.webp"
+				},
+				{
+					"image_file": "16.webp"
+				},
+				{
+					"image_file": "17.webp"
+				},
+				{
+					"image_file": "18.webp"
+				},
+				{
+					"image_file": "19.webp"
+				},
+				{
+					"image_file": "20.webp"
+				}
+			]
+		},
+		{
+			"id": "83",
+			"name": "Ucapan Idul Fitri Part 3",
+			"author": "TouchApp Studio",
+			"folder_link": "https://kuota.web.id/android/stikerwa/ucapanselamat/Ucapan%20Idul%20Fitri%203/",
+			"image_cover": "1.png",
+			"lock_item": false,
+			"stickers": [
+				{
+					"image_file": "1.webp"
+				},
+				{
+					"image_file": "2.webp"
+				},
+				{
+					"image_file": "3.webp"
+				},
+				{
+					"image_file": "4.webp"
+				},
+				{
+					"image_file": "5.webp"
+				},
+				{
+					"image_file": "6.webp"
+				},
+				{
+					"image_file": "7.webp"
+				},
+				{
+					"image_file": "8.webp"
+				},
+				{
+					"image_file": "9.webp"
+				},
+				{
+					"image_file": "10.webp"
+				},
+				{
+					"image_file": "11.webp"
+				},
+				{
+					"image_file": "12.webp"
+				},
+				{
+					"image_file": "13.webp"
+				},
+				{
+					"image_file": "14.webp"
+				},
+				{
+					"image_file": "15.webp"
+				},
+				{
+					"image_file": "16.webp"
+				},
+				{
+					"image_file": "17.webp"
+				},
+				{
+					"image_file": "18.webp"
+				},
+				{
+					"image_file": "19.webp"
+				},
+				{
+					"image_file": "20.webp"
+				}
+			]
+		},
+		{
+			"id": "84",
+			"name": "Ucapan Idul Fitri Part 4",
+			"author": "TouchApp Studio",
+			"folder_link": "https://kuota.web.id/android/stikerwa/ucapanselamat/Ucapan%20Idul%20Fitri%204/",
+			"image_cover": "1.png",
+			"lock_item": false,
+			"stickers": [
+				{
+					"image_file": "1.webp"
+				},
+				{
+					"image_file": "2.webp"
+				},
+				{
+					"image_file": "3.webp"
+				},
+				{
+					"image_file": "4.webp"
+				},
+				{
+					"image_file": "5.webp"
+				},
+				{
+					"image_file": "6.webp"
+				},
+				{
+					"image_file": "7.webp"
+				},
+				{
+					"image_file": "8.webp"
+				},
+				{
+					"image_file": "9.webp"
+				},
+				{
+					"image_file": "10.webp"
+				},
+				{
+					"image_file": "11.webp"
+				},
+				{
+					"image_file": "12.webp"
+				},
+				{
+					"image_file": "13.webp"
+				},
+				{
+					"image_file": "14.webp"
+				},
+				{
+					"image_file": "15.webp"
+				},
+				{
+					"image_file": "16.webp"
+				},
+				{
+					"image_file": "17.webp"
+				},
+				{
+					"image_file": "18.webp"
+				},
+				{
+					"image_file": "19.webp"
+				},
+				{
+					"image_file": "20.webp"
+				}
+			]
+		},
+		{
+			"id": "85",
+			"name": "Ucapan Idul Fitri Part 5",
+			"author": "TouchApp Studio",
+			"folder_link": "https://kuota.web.id/android/stikerwa/ucapanselamat/Ucapan%20Idul%20Fitri%205/",
+			"image_cover": "1.png",
+			"lock_item": false,
+			"stickers": [
+				{
+					"image_file": "1.webp"
+				},
+				{
+					"image_file": "2.webp"
+				},
+				{
+					"image_file": "3.webp"
+				},
+				{
+					"image_file": "4.webp"
+				},
+				{
+					"image_file": "5.webp"
+				},
+				{
+					"image_file": "6.webp"
+				},
+				{
+					"image_file": "7.webp"
+				},
+				{
+					"image_file": "8.webp"
+				},
+				{
+					"image_file": "9.webp"
+				},
+				{
+					"image_file": "10.webp"
+				},
+				{
+					"image_file": "11.webp"
+				},
+				{
+					"image_file": "12.webp"
+				},
+				{
+					"image_file": "13.webp"
+				},
+				{
+					"image_file": "14.webp"
+				},
+				{
+					"image_file": "15.webp"
+				},
+				{
+					"image_file": "16.webp"
+				},
+				{
+					"image_file": "17.webp"
+				},
+				{
+					"image_file": "18.webp"
+				},
+				{
+					"image_file": "19.webp"
+				},
+				{
+					"image_file": "20.webp"
+				}
+			]
+		},
+		{
+			"id": "86",
+			"name": "Ucapan Kepada Teman",
+			"author": "TouchApp Studio",
+			"folder_link": "https://kuota.web.id/android/stikerwa/ucapanselamat/Ucapan%20Kepada%20Teman%201/",
+			"image_cover": "1.png",
+			"lock_item": false,
+			"stickers": [
+				{
+					"image_file": "1.webp"
+				},
+				{
+					"image_file": "2.webp"
+				},
+				{
+					"image_file": "3.webp"
+				},
+				{
+					"image_file": "4.webp"
+				},
+				{
+					"image_file": "5.webp"
+				},
+				{
+					"image_file": "6.webp"
+				},
+				{
+					"image_file": "7.webp"
+				},
+				{
+					"image_file": "8.webp"
+				},
+				{
+					"image_file": "9.webp"
+				},
+				{
+					"image_file": "10.webp"
+				},
+				{
+					"image_file": "11.webp"
+				},
+				{
+					"image_file": "12.webp"
+				},
+				{
+					"image_file": "13.webp"
+				},
+				{
+					"image_file": "14.webp"
+				},
+				{
+					"image_file": "15.webp"
+				},
+				{
+					"image_file": "16.webp"
+				},
+				{
+					"image_file": "17.webp"
+				},
+				{
+					"image_file": "18.webp"
+				},
+				{
+					"image_file": "19.webp"
+				},
+				{
+					"image_file": "20.webp"
+				}
+			]
+		},
+		{
+			"id": "87",
+			"name": "Ucapan Kepada Teman Part 2",
+			"author": "TouchApp Studio",
+			"folder_link": "https://kuota.web.id/android/stikerwa/ucapanselamat/Ucapan%20Kepada%20Teman%202/",
+			"image_cover": "1.png",
+			"lock_item": false,
+			"stickers": [
+				{
+					"image_file": "1.webp"
+				},
+				{
+					"image_file": "2.webp"
+				},
+				{
+					"image_file": "3.webp"
+				},
+				{
+					"image_file": "4.webp"
+				},
+				{
+					"image_file": "5.webp"
+				},
+				{
+					"image_file": "6.webp"
+				},
+				{
+					"image_file": "7.webp"
+				},
+				{
+					"image_file": "8.webp"
+				},
+				{
+					"image_file": "9.webp"
+				},
+				{
+					"image_file": "10.webp"
+				},
+				{
+					"image_file": "11.webp"
+				},
+				{
+					"image_file": "12.webp"
+				},
+				{
+					"image_file": "13.webp"
+				},
+				{
+					"image_file": "14.webp"
+				},
+				{
+					"image_file": "15.webp"
+				},
+				{
+					"image_file": "16.webp"
+				},
+				{
+					"image_file": "17.webp"
+				},
+				{
+					"image_file": "18.webp"
+				},
+				{
+					"image_file": "19.webp"
+				},
+				{
+					"image_file": "20.webp"
+				}
+			]
+		},
+		{
+			"id": "88",
+			"name": "Ucapan Selamat",
+			"author": "TouchApp Studio",
+			"folder_link": "https://kuota.web.id/android/stikerwa/ucapanselamat/Ucapan%20Selamat%201/",
+			"image_cover": "1.png",
+			"lock_item": false,
+			"stickers": [
+				{
+					"image_file": "1.webp"
+				},
+				{
+					"image_file": "2.webp"
+				},
+				{
+					"image_file": "3.webp"
+				},
+				{
+					"image_file": "4.webp"
+				},
+				{
+					"image_file": "5.webp"
+				},
+				{
+					"image_file": "6.webp"
+				},
+				{
+					"image_file": "7.webp"
+				},
+				{
+					"image_file": "8.webp"
+				},
+				{
+					"image_file": "9.webp"
+				},
+				{
+					"image_file": "10.webp"
+				},
+				{
+					"image_file": "11.webp"
+				},
+				{
+					"image_file": "12.webp"
+				},
+				{
+					"image_file": "13.webp"
+				},
+				{
+					"image_file": "14.webp"
+				},
+				{
+					"image_file": "15.webp"
+				},
+				{
+					"image_file": "16.webp"
+				},
+				{
+					"image_file": "17.webp"
+				},
+				{
+					"image_file": "18.webp"
+				},
+				{
+					"image_file": "19.webp"
+				},
+				{
+					"image_file": "20.webp"
+				}
+			]
+		},
+		{
+			"id": "89",
+			"name": "Ucapan Selamat Part 2",
+			"author": "TouchApp Studio",
+			"folder_link": "https://kuota.web.id/android/stikerwa/ucapanselamat/Ucapan%20Selamat%202/",
+			"image_cover": "1.png",
+			"lock_item": false,
+			"stickers": [
+				{
+					"image_file": "1.webp"
+				},
+				{
+					"image_file": "2.webp"
+				},
+				{
+					"image_file": "3.webp"
+				},
+				{
+					"image_file": "4.webp"
+				},
+				{
+					"image_file": "5.webp"
+				},
+				{
+					"image_file": "6.webp"
+				},
+				{
+					"image_file": "7.webp"
+				},
+				{
+					"image_file": "8.webp"
+				},
+				{
+					"image_file": "9.webp"
+				},
+				{
+					"image_file": "10.webp"
+				},
+				{
+					"image_file": "11.webp"
+				},
+				{
+					"image_file": "12.webp"
+				},
+				{
+					"image_file": "13.webp"
+				},
+				{
+					"image_file": "14.webp"
+				},
+				{
+					"image_file": "15.webp"
+				},
+				{
+					"image_file": "16.webp"
+				},
+				{
+					"image_file": "17.webp"
+				},
+				{
+					"image_file": "18.webp"
+				},
+				{
+					"image_file": "19.webp"
+				},
+				{
+					"image_file": "20.webp"
+				}
+			]
+		},
+		{
+			"id": "90",
+			"name": "Ucapan Semoga Beruntung",
+			"author": "TouchApp Studio",
+			"folder_link": "https://kuota.web.id/android/stikerwa/ucapanselamat/Ucapan%20Semoga%20Beruntung/",
+			"image_cover": "1.png",
+			"lock_item": false,
+			"stickers": [
+				{
+					"image_file": "1.webp"
+				},
+				{
+					"image_file": "2.webp"
+				},
+				{
+					"image_file": "3.webp"
+				},
+				{
+					"image_file": "4.webp"
+				},
+				{
+					"image_file": "5.webp"
+				},
+				{
+					"image_file": "6.webp"
+				},
+				{
+					"image_file": "7.webp"
+				},
+				{
+					"image_file": "8.webp"
+				},
+				{
+					"image_file": "9.webp"
+				},
+				{
+					"image_file": "10.webp"
+				},
+				{
+					"image_file": "11.webp"
+				},
+				{
+					"image_file": "12.webp"
+				},
+				{
+					"image_file": "13.webp"
+				},
+				{
+					"image_file": "14.webp"
+				},
+				{
+					"image_file": "15.webp"
+				},
+				{
+					"image_file": "16.webp"
+				},
+				{
+					"image_file": "17.webp"
+				},
+				{
+					"image_file": "18.webp"
+				},
+				{
+					"image_file": "19.webp"
+				},
+				{
+					"image_file": "20.webp"
+				}
+			]
+		},
+		{
+			"id": "91",
+			"name": "Ucapan Terimakasih",
+			"author": "TouchApp Studio",
+			"folder_link": "https://kuota.web.id/android/stikerwa/ucapanselamat/Ucapan%20Terimakasih/",
+			"image_cover": "1.png",
+			"lock_item": false,
+			"stickers": [
+				{
+					"image_file": "1.webp"
+				},
+				{
+					"image_file": "2.webp"
+				},
+				{
+					"image_file": "3.webp"
+				},
+				{
+					"image_file": "4.webp"
+				},
+				{
+					"image_file": "5.webp"
+				},
+				{
+					"image_file": "6.webp"
+				},
+				{
+					"image_file": "7.webp"
+				},
+				{
+					"image_file": "8.webp"
+				},
+				{
+					"image_file": "9.webp"
+				},
+				{
+					"image_file": "10.webp"
+				},
+				{
+					"image_file": "11.webp"
+				},
+				{
+					"image_file": "12.webp"
+				},
+				{
+					"image_file": "13.webp"
+				},
+				{
+					"image_file": "14.webp"
+				},
+				{
+					"image_file": "15.webp"
+				},
+				{
+					"image_file": "16.webp"
+				},
+				{
+					"image_file": "17.webp"
+				},
+				{
+					"image_file": "18.webp"
+				},
+				{
+					"image_file": "19.webp"
+				},
+				{
+					"image_file": "20.webp"
+				}
+			]
+		},
+		{
+			"id": "92",
+			"name": "Ucapan Ulang Tahun",
+			"author": "TouchApp Studio",
+			"folder_link": "https://kuota.web.id/android/stikerwa/ucapanselamat/Ulang%20Tahun%201/",
+			"image_cover": "1.png",
+			"lock_item": false,
+			"stickers": [
+				{
+					"image_file": "1.webp"
+				},
+				{
+					"image_file": "2.webp"
+				},
+				{
+					"image_file": "3.webp"
+				},
+				{
+					"image_file": "4.webp"
+				},
+				{
+					"image_file": "5.webp"
+				},
+				{
+					"image_file": "6.webp"
+				},
+				{
+					"image_file": "7.webp"
+				},
+				{
+					"image_file": "8.webp"
+				},
+				{
+					"image_file": "9.webp"
+				},
+				{
+					"image_file": "10.webp"
+				},
+				{
+					"image_file": "11.webp"
+				},
+				{
+					"image_file": "12.webp"
+				},
+				{
+					"image_file": "13.webp"
+				},
+				{
+					"image_file": "14.webp"
+				},
+				{
+					"image_file": "15.webp"
+				},
+				{
+					"image_file": "16.webp"
+				},
+				{
+					"image_file": "17.webp"
+				},
+				{
+					"image_file": "18.webp"
+				},
+				{
+					"image_file": "19.webp"
+				},
+				{
+					"image_file": "20.webp"
+				}
+			]
+		},
+		{
+			"id": "93",
+			"name": "Ucapan Ulang Tahun Part 2",
+			"author": "TouchApp Studio",
+			"folder_link": "https://kuota.web.id/android/stikerwa/ucapanselamat/Ulang%20Tahun%202/",
+			"image_cover": "1.png",
+			"lock_item": false,
+			"stickers": [
+				{
+					"image_file": "1.webp"
+				},
+				{
+					"image_file": "2.webp"
+				},
+				{
+					"image_file": "3.webp"
+				},
+				{
+					"image_file": "4.webp"
+				},
+				{
+					"image_file": "5.webp"
+				},
+				{
+					"image_file": "6.webp"
+				},
+				{
+					"image_file": "7.webp"
+				},
+				{
+					"image_file": "8.webp"
+				},
+				{
+					"image_file": "9.webp"
+				},
+				{
+					"image_file": "10.webp"
+				},
+				{
+					"image_file": "11.webp"
+				},
+				{
+					"image_file": "12.webp"
+				},
+				{
+					"image_file": "13.webp"
+				},
+				{
+					"image_file": "14.webp"
+				},
+				{
+					"image_file": "15.webp"
+				},
+				{
+					"image_file": "16.webp"
+				},
+				{
+					"image_file": "17.webp"
+				},
+				{
+					"image_file": "18.webp"
+				},
+				{
+					"image_file": "19.webp"
+				},
+				{
+					"image_file": "20.webp"
+				}
+			]
+		},
+		{
+			"id": "94",
+			"name": "Ucapan Ulang Tahun Part 3",
+			"author": "TouchApp Studio",
+			"folder_link": "https://kuota.web.id/android/stikerwa/ucapanselamat/Ulang%20Tahun%203/",
+			"image_cover": "1.png",
+			"lock_item": false,
+			"stickers": [
+				{
+					"image_file": "1.webp"
+				},
+				{
+					"image_file": "2.webp"
+				},
+				{
+					"image_file": "3.webp"
+				},
+				{
+					"image_file": "4.webp"
+				},
+				{
+					"image_file": "5.webp"
+				},
+				{
+					"image_file": "6.webp"
+				},
+				{
+					"image_file": "7.webp"
+				},
+				{
+					"image_file": "8.webp"
+				},
+				{
+					"image_file": "9.webp"
+				},
+				{
+					"image_file": "10.webp"
+				},
+				{
+					"image_file": "11.webp"
+				},
+				{
+					"image_file": "12.webp"
+				},
+				{
+					"image_file": "13.webp"
+				},
+				{
+					"image_file": "14.webp"
+				},
+				{
+					"image_file": "15.webp"
+				},
+				{
+					"image_file": "16.webp"
+				},
+				{
+					"image_file": "17.webp"
+				},
+				{
+					"image_file": "18.webp"
+				},
+				{
+					"image_file": "19.webp"
+				},
+				{
+					"image_file": "20.webp"
+				}
+			]
+		},
+		{
+			"id": "95",
+			"name": "Ucapan Ulang Tahun Part 4",
+			"author": "TouchApp Studio",
+			"folder_link": "https://kuota.web.id/android/stikerwa/ucapanselamat/Ulang%20Tahun%204/",
+			"image_cover": "1.png",
+			"lock_item": true,
+			"stickers": [
+				{
+					"image_file": "1.webp"
+				},
+				{
+					"image_file": "2.webp"
+				},
+				{
+					"image_file": "3.webp"
+				},
+				{
+					"image_file": "4.webp"
+				},
+				{
+					"image_file": "5.webp"
+				},
+				{
+					"image_file": "6.webp"
+				},
+				{
+					"image_file": "7.webp"
+				},
+				{
+					"image_file": "8.webp"
+				},
+				{
+					"image_file": "9.webp"
+				},
+				{
+					"image_file": "10.webp"
+				},
+				{
+					"image_file": "11.webp"
+				},
+				{
+					"image_file": "12.webp"
+				},
+				{
+					"image_file": "13.webp"
+				},
+				{
+					"image_file": "14.webp"
+				},
+				{
+					"image_file": "15.webp"
+				},
+				{
+					"image_file": "16.webp"
+				},
+				{
+					"image_file": "17.webp"
+				},
+				{
+					"image_file": "18.webp"
+				},
+				{
+					"image_file": "19.webp"
+				},
+				{
+					"image_file": "20.webp"
+				}
+			]
+		},
+		{
+			"id": "96",
+			"name": "Ucapan Ulang Tahun Part 5",
+			"author": "TouchApp Studio",
+			"folder_link": "https://kuota.web.id/android/stikerwa/ucapanselamat/Ulang%20Tahun%205/",
+			"image_cover": "1.png",
+			"lock_item": false,
+			"stickers": [
+				{
+					"image_file": "1.webp"
+				},
+				{
+					"image_file": "2.webp"
+				},
+				{
+					"image_file": "3.webp"
+				},
+				{
+					"image_file": "4.webp"
+				},
+				{
+					"image_file": "5.webp"
+				},
+				{
+					"image_file": "6.webp"
+				},
+				{
+					"image_file": "7.webp"
+				},
+				{
+					"image_file": "8.webp"
+				},
+				{
+					"image_file": "9.webp"
+				},
+				{
+					"image_file": "10.webp"
+				},
+				{
+					"image_file": "11.webp"
+				},
+				{
+					"image_file": "12.webp"
+				},
+				{
+					"image_file": "13.webp"
+				},
+				{
+					"image_file": "14.webp"
+				},
+				{
+					"image_file": "15.webp"
+				},
+				{
+					"image_file": "16.webp"
+				},
+				{
+					"image_file": "17.webp"
+				},
+				{
+					"image_file": "18.webp"
+				},
+				{
+					"image_file": "19.webp"
+				},
+				{
+					"image_file": "20.webp"
+				}
+			]
+		},
+		{
+			"id": "97",
+			"name": "Ucapan Ulang Tahun Part 6",
+			"author": "TouchApp Studio",
+			"folder_link": "https://kuota.web.id/android/stikerwa/ucapanselamat/Ulang%20Tahun%206/",
+			"image_cover": "1.png",
+			"lock_item": false,
+			"stickers": [
+				{
+					"image_file": "1.webp"
+				},
+				{
+					"image_file": "2.webp"
+				},
+				{
+					"image_file": "3.webp"
+				},
+				{
+					"image_file": "4.webp"
+				},
+				{
+					"image_file": "5.webp"
+				},
+				{
+					"image_file": "6.webp"
+				},
+				{
+					"image_file": "7.webp"
+				},
+				{
+					"image_file": "8.webp"
+				},
+				{
+					"image_file": "9.webp"
+				},
+				{
+					"image_file": "10.webp"
+				},
+				{
+					"image_file": "11.webp"
+				},
+				{
+					"image_file": "12.webp"
+				},
+				{
+					"image_file": "13.webp"
+				},
+				{
+					"image_file": "14.webp"
+				},
+				{
+					"image_file": "15.webp"
+				},
+				{
+					"image_file": "16.webp"
+				},
+				{
+					"image_file": "17.webp"
+				},
+				{
+					"image_file": "18.webp"
+				},
+				{
+					"image_file": "19.webp"
+				},
+				{
+					"image_file": "20.webp"
+				}
+			]
+		},
+		{
+			"id": "98",
+			"name": "Ucapan Ulang Tahun Part 7",
+			"author": "TouchApp Studio",
+			"folder_link": "https://kuota.web.id/android/stikerwa/ucapanselamat/Ulang%20Tahun%207/",
+			"image_cover": "1.png",
+			"lock_item": false,
+			"stickers": [
+				{
+					"image_file": "1.webp"
+				},
+				{
+					"image_file": "2.webp"
+				},
+				{
+					"image_file": "3.webp"
+				},
+				{
+					"image_file": "4.webp"
+				},
+				{
+					"image_file": "5.webp"
+				},
+				{
+					"image_file": "6.webp"
+				},
+				{
+					"image_file": "7.webp"
+				},
+				{
+					"image_file": "8.webp"
+				},
+				{
+					"image_file": "9.webp"
+				},
+				{
+					"image_file": "10.webp"
+				},
+				{
+					"image_file": "11.webp"
+				},
+				{
+					"image_file": "12.webp"
+				},
+				{
+					"image_file": "13.webp"
+				},
+				{
+					"image_file": "14.webp"
+				},
+				{
+					"image_file": "15.webp"
+				},
+				{
+					"image_file": "16.webp"
+				},
+				{
+					"image_file": "17.webp"
+				},
+				{
+					"image_file": "18.webp"
+				},
+				{
+					"image_file": "19.webp"
+				},
+				{
+					"image_file": "20.webp"
+				}
+			]
+		},
+		{
+			"id": "99",
+			"name": "Ucapan Ulang Tahun Part 8",
+			"author": "TouchApp Studio",
+			"folder_link": "https://kuota.web.id/android/stikerwa/ucapanselamat/Ulang%20Tahun%208/",
+			"image_cover": "1.png",
+			"lock_item": false,
+			"stickers": [
+				{
+					"image_file": "1.webp"
+				},
+				{
+					"image_file": "2.webp"
+				},
+				{
+					"image_file": "3.webp"
+				},
+				{
+					"image_file": "4.webp"
+				},
+				{
+					"image_file": "5.webp"
+				},
+				{
+					"image_file": "6.webp"
+				},
+				{
+					"image_file": "7.webp"
+				},
+				{
+					"image_file": "8.webp"
+				},
+				{
+					"image_file": "9.webp"
+				},
+				{
+					"image_file": "10.webp"
+				},
+				{
+					"image_file": "11.webp"
+				},
+				{
+					"image_file": "12.webp"
+				},
+				{
+					"image_file": "13.webp"
+				},
+				{
+					"image_file": "14.webp"
+				},
+				{
+					"image_file": "15.webp"
+				},
+				{
+					"image_file": "16.webp"
+				},
+				{
+					"image_file": "17.webp"
+				},
+				{
+					"image_file": "18.webp"
+				},
+				{
+					"image_file": "19.webp"
+				},
+				{
+					"image_file": "20.webp"
+				}
+			]
+		},
+		{
+			"id": "100",
+			"name": "Ucapan Ulang Tahun Pernikahan",
+			"author": "TouchApp Studio",
+			"folder_link": "https://kuota.web.id/android/stikerwa/ucapanselamat/Ulang%20Tahun%20Pernikahan/",
+			"image_cover": "1.png",
+			"lock_item": false,
+			"stickers": [
+				{
+					"image_file": "1.webp"
+				},
+				{
+					"image_file": "2.webp"
+				},
+				{
+					"image_file": "3.webp"
+				},
+				{
+					"image_file": "4.webp"
+				},
+				{
+					"image_file": "5.webp"
+				},
+				{
+					"image_file": "6.webp"
+				},
+				{
+					"image_file": "7.webp"
+				},
+				{
+					"image_file": "8.webp"
+				},
+				{
+					"image_file": "9.webp"
+				},
+				{
+					"image_file": "10.webp"
+				},
+				{
+					"image_file": "11.webp"
+				},
+				{
+					"image_file": "12.webp"
+				},
+				{
+					"image_file": "13.webp"
+				},
+				{
+					"image_file": "14.webp"
+				},
+				{
+					"image_file": "15.webp"
+				},
+				{
+					"image_file": "16.webp"
+				},
+				{
+					"image_file": "17.webp"
+				},
+				{
+					"image_file": "18.webp"
+				},
+				{
+					"image_file": "19.webp"
+				},
+				{
+					"image_file": "20.webp"
+				}
+			]
+		},
+			{
+			"id": "101",
+			"name": "Alhamdulillah",
+			"author": "TouchApp Studio",
+			"folder_link": "https://kuota.web.id/android/stikerwa/muslim/alhamdullilah/alhamdullilah/",
+			"image_cover": "1.png",
+			"lock_item": false,
+			"stickers": [
+				{
+					"image_file": "1.webp"
+				},
+				{
+					"image_file": "2.webp"
+				},
+				{
+					"image_file": "3.webp"
+				},
+				{
+					"image_file": "4.webp"
+				},
+				{
+					"image_file": "5.webp"
+				},
+				{
+					"image_file": "6.webp"
+				},
+				{
+					"image_file": "7.webp"
+				},
+				{
+					"image_file": "8.webp"
+				},
+				{
+					"image_file": "9.webp"
+				},
+				{
+					"image_file": "10.webp"
+				},
+				{
+					"image_file": "11.webp"
+				},
+				{
+					"image_file": "12.webp"
+				},
+				{
+					"image_file": "13.webp"
+				}
+			
+				]
+			    
+			}
+	]
+}
